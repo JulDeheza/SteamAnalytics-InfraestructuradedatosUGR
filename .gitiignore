@@ -129,3 +129,7 @@ Desktop.ini
 .kaggle/
 .aws/
 .gcloud/
+
+# Steam Analytics - archivos de ingesta que no se publicarán
+Medallion/1.Bronze/Data/resenas.json
+Medallion/1.Bronze/Data/Checkpoints/
