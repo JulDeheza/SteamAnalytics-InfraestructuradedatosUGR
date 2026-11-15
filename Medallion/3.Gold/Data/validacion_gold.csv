@@ -1,0 +1,72 @@
+﻿tipo,control,resultado,detalle
+CONTROL,Existencia de dim_usuarios,OK,"39,000 filas y 28 columnas"
+CONTROL,Existencia de dim_juegos,OK,"5,001 filas y 5 columnas"
+CONTROL,Existencia de dim_fecha,OK,"7,897 filas y 11 columnas"
+CONTROL,Existencia de dim_idioma,OK,31 filas y 2 columnas
+CONTROL,Existencia de dim_hardware,OK,"2,837 filas y 6 columnas"
+CONTROL,Existencia de fact_resenas,OK,"46,990 filas y 33 columnas"
+CONTROL,Existencia de fact_novedades,OK,"5,039 filas y 14 columnas"
+CONTROL,Existencia de agg_juego_mes,OK,"13,208 filas y 7 columnas"
+CONTROL,dim_usuarios: columna PK,OK,Columna requerida: user_key
+CONTROL,dim_usuarios: PK sin nulos,OK,Nulos: 0
+CONTROL,dim_usuarios: PK sin duplicados,OK,Duplicados: 0
+CONTROL,dim_usuarios: PK no negativas,OK,Las claves deben ser enteros no negativos.
+CONTROL,dim_usuarios: registro desconocido,OK,Se requiere una fila con clave sustituta 0.
+CONTROL,dim_juegos: columna PK,OK,Columna requerida: game_key
+CONTROL,dim_juegos: PK sin nulos,OK,Nulos: 0
+CONTROL,dim_juegos: PK sin duplicados,OK,Duplicados: 0
+CONTROL,dim_juegos: PK no negativas,OK,Las claves deben ser enteros no negativos.
+CONTROL,dim_juegos: registro desconocido,OK,Se requiere una fila con clave sustituta 0.
+CONTROL,dim_fecha: columna PK,OK,Columna requerida: date_key
+CONTROL,dim_fecha: PK sin nulos,OK,Nulos: 0
+CONTROL,dim_fecha: PK sin duplicados,OK,Duplicados: 0
+CONTROL,dim_fecha: PK no negativas,OK,Las claves deben ser enteros no negativos.
+CONTROL,dim_fecha: registro desconocido,OK,Se requiere una fila con clave sustituta 0.
+CONTROL,dim_idioma: columna PK,OK,Columna requerida: language_key
+CONTROL,dim_idioma: PK sin nulos,OK,Nulos: 0
+CONTROL,dim_idioma: PK sin duplicados,OK,Duplicados: 0
+CONTROL,dim_idioma: PK no negativas,OK,Las claves deben ser enteros no negativos.
+CONTROL,dim_idioma: registro desconocido,OK,Se requiere una fila con clave sustituta 0.
+CONTROL,dim_hardware: columna PK,OK,Columna requerida: hardware_key
+CONTROL,dim_hardware: PK sin nulos,OK,Nulos: 0
+CONTROL,dim_hardware: PK sin duplicados,OK,Duplicados: 0
+CONTROL,dim_hardware: PK no negativas,OK,Las claves deben ser enteros no negativos.
+CONTROL,dim_hardware: registro desconocido,OK,Se requiere una fila con clave sustituta 0.
+CONTROL,fact_resenas: identificador presente,OK,recommendationid
+CONTROL,fact_resenas: identificador sin nulos,OK,Nulos: 0
+CONTROL,fact_resenas: identificador único,OK,Duplicados: 0
+CONTROL,fact_resenas: user_key sin nulos,OK,Nulos: 0
+CONTROL,fact_resenas: user_key no negativa,OK,Valores negativos: 0
+CONTROL,fact_resenas: integridad referencial user_key,OK,Claves sin correspondencia: 0
+ADVERTENCIA,fact_resenas: user_key desconocida,ADVERTENCIA,1 registros asociados a clave 0.
+CONTROL,fact_resenas: game_key sin nulos,OK,Nulos: 0
+CONTROL,fact_resenas: game_key no negativa,OK,Valores negativos: 0
+CONTROL,fact_resenas: integridad referencial game_key,OK,Claves sin correspondencia: 0
+CONTROL,fact_resenas: date_key sin nulos,OK,Nulos: 0
+CONTROL,fact_resenas: date_key no negativa,OK,Valores negativos: 0
+CONTROL,fact_resenas: integridad referencial date_key,OK,Claves sin correspondencia: 0
+CONTROL,fact_resenas: language_key sin nulos,OK,Nulos: 0
+CONTROL,fact_resenas: language_key no negativa,OK,Valores negativos: 0
+CONTROL,fact_resenas: integridad referencial language_key,OK,Claves sin correspondencia: 0
+CONTROL,fact_resenas: hardware_key sin nulos,OK,Nulos: 0
+CONTROL,fact_resenas: hardware_key no negativa,OK,Valores negativos: 0
+CONTROL,fact_resenas: integridad referencial hardware_key,OK,Claves sin correspondencia: 0
+ADVERTENCIA,fact_resenas: hardware_key desconocida,ADVERTENCIA,"43,657 registros asociados a clave 0."
+CONTROL,fact_novedades: identificador presente,OK,gid
+CONTROL,fact_novedades: identificador sin nulos,OK,Nulos: 0
+CONTROL,fact_novedades: identificador único,OK,Duplicados: 0
+CONTROL,fact_novedades: game_key sin nulos,OK,Nulos: 0
+CONTROL,fact_novedades: game_key no negativa,OK,Valores negativos: 0
+CONTROL,fact_novedades: integridad referencial game_key,OK,Claves sin correspondencia: 0
+ADVERTENCIA,fact_novedades: game_key desconocida,ADVERTENCIA,6 registros asociados a clave 0.
+CONTROL,fact_novedades: date_key sin nulos,OK,Nulos: 0
+CONTROL,fact_novedades: date_key no negativa,OK,Valores negativos: 0
+CONTROL,fact_novedades: integridad referencial date_key,OK,Claves sin correspondencia: 0
+CONTROL,Agregación: estructura,OK,Columnas faltantes: []
+CONTROL,Agregación: combinaciones únicas,OK,No debe haber más de una fila por juego y mes.
+CONTROL,Agregación: valores sin nulos,OK,Las columnas de control no deben contener nulos.
+CONTROL,Agregación: total de reseñas,OK,"Agregadas: 46,990 | Fact: 46,990"
+CONTROL,Agregación: total de novedades,OK,"Agregadas: 5,039 | Fact: 5,039"
+CONTROL,Agregación: consistencia con tablas de hechos,OK,Combinaciones con diferencias: 0
+CONTROL,fact_resenas: identificadores conservados desde Silver,OK,"Silver: 46,990 | Gold: 46,990 | Faltantes: 0 | Adicionales: 0"
+CONTROL,fact_novedades: identificadores conservados desde Silver,OK,"Silver: 5,039 | Gold: 5,039 | Faltantes: 0 | Adicionales: 0"

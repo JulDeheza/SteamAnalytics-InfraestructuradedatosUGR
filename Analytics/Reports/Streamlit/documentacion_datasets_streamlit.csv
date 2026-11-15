@@ -1,0 +1,7 @@
+﻿archivo,contenido,registros,uso_streamlit
+resenas_dashboard.parquet,"Reseñas integradas con usuarios, juegos e idiomas.",46990,"Exploración general, filtros y análisis de reseñas."
+resenas_cohortes.parquet,Reseñas de usuarios con cuentas creadas entre 2020 y 2025.,10512,Análisis específico de las seis cohortes.
+kpis_generales.parquet,Indicadores generales del conjunto de reseñas.,7,Tarjetas KPI del dashboard.
+resumen_cohortes.parquet,Indicadores de reseñas agrupados por año de creación de cuenta.,6,Comparación de cohortes 2020–2025.
+actividad_mensual.parquet,Actividad mensual agregada por período.,194,Visualización de evolución temporal.
+ranking_juegos.parquet,Cantidad de reseñas y proporción positiva por juego.,497,Ranking y comparación de juegos.

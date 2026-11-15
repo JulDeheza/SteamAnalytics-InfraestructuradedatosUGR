@@ -1,0 +1,201 @@
+﻿modelo,fold,metrica,valor
+Dummy - mayoría,1,accuracy,0.855683269476373
+Dummy - mayoría,2,accuracy,0.8847150259067358
+Dummy - mayoría,3,accuracy,0.8650793650793651
+Dummy - mayoría,4,accuracy,0.8459530026109661
+Dummy - mayoría,5,accuracy,0.8762626262626263
+Dummy - mayoría,1,balanced_accuracy,0.5
+Dummy - mayoría,2,balanced_accuracy,0.5
+Dummy - mayoría,3,balanced_accuracy,0.5
+Dummy - mayoría,4,balanced_accuracy,0.5
+Dummy - mayoría,5,balanced_accuracy,0.5
+Dummy - mayoría,1,precision_macro,0.4278416347381865
+Dummy - mayoría,2,precision_macro,0.4423575129533679
+Dummy - mayoría,3,precision_macro,0.43253968253968256
+Dummy - mayoría,4,precision_macro,0.42297650130548303
+Dummy - mayoría,5,precision_macro,0.43813131313131315
+Dummy - mayoría,1,recall_macro,0.5
+Dummy - mayoría,2,recall_macro,0.5
+Dummy - mayoría,3,recall_macro,0.5
+Dummy - mayoría,4,recall_macro,0.5
+Dummy - mayoría,5,recall_macro,0.5
+Dummy - mayoría,1,f1_macro,0.46111493461803166
+Dummy - mayoría,2,f1_macro,0.46941580756013745
+Dummy - mayoría,3,f1_macro,0.46382978723404256
+Dummy - mayoría,4,f1_macro,0.4582743988684583
+Dummy - mayoría,5,f1_macro,0.4670255720053836
+Dummy - mayoría,1,precision_negativa,0.0
+Dummy - mayoría,2,precision_negativa,0.0
+Dummy - mayoría,3,precision_negativa,0.0
+Dummy - mayoría,4,precision_negativa,0.0
+Dummy - mayoría,5,precision_negativa,0.0
+Dummy - mayoría,1,recall_negativa,0.0
+Dummy - mayoría,2,recall_negativa,0.0
+Dummy - mayoría,3,recall_negativa,0.0
+Dummy - mayoría,4,recall_negativa,0.0
+Dummy - mayoría,5,recall_negativa,0.0
+Dummy - mayoría,1,f1_negativa,0.0
+Dummy - mayoría,2,f1_negativa,0.0
+Dummy - mayoría,3,f1_negativa,0.0
+Dummy - mayoría,4,f1_negativa,0.0
+Dummy - mayoría,5,f1_negativa,0.0
+Regresión Logística,1,accuracy,0.8646232439335888
+Regresión Logística,2,accuracy,0.8873056994818653
+Regresión Logística,3,accuracy,0.8703703703703703
+Regresión Logística,4,accuracy,0.8498694516971279
+Regresión Logística,5,accuracy,0.8813131313131313
+Regresión Logística,1,balanced_accuracy,0.5309734513274337
+Regresión Logística,2,balanced_accuracy,0.5210077812690214
+Regresión Logística,3,balanced_accuracy,0.5237452779276849
+Regresión Logística,4,balanced_accuracy,0.5127118644067796
+Regresión Logística,5,balanced_accuracy,0.5204081632653061
+Regresión Logística,1,precision_macro,0.9317010309278351
+Regresión Logística,2,precision_macro,0.7778503046127067
+Regresión Logística,3,precision_macro,0.8520000000000001
+Regresión Logística,4,precision_macro,0.9246395806028833
+Regresión Logística,5,precision_macro,0.9403553299492386
+Regresión Logística,1,recall_macro,0.5309734513274337
+Regresión Logística,2,recall_macro,0.5210077812690214
+Regresión Logística,3,recall_macro,0.5237452779276849
+Regresión Logística,4,recall_macro,0.5127118644067796
+Regresión Logística,5,recall_macro,0.5204081632653061
+Regresión Logística,1,f1_macro,0.5216804979253112
+Regresión Logística,2,f1_macro,0.5120845592241473
+Regresión Logística,3,f1_macro,0.5113960113960114
+Regresión Logística,4,f1_macro,0.4840421481746139
+Regresión Logística,5,f1_macro,0.507501786139557
+Regresión Logística,1,precision_negativa,1.0
+Regresión Logística,2,precision_negativa,0.6666666666666666
+Regresión Logística,3,precision_negativa,0.8333333333333334
+Regresión Logística,4,precision_negativa,1.0
+Regresión Logística,5,precision_negativa,1.0
+Regresión Logística,1,recall_negativa,0.061946902654867256
+Regresión Logística,2,recall_negativa,0.0449438202247191
+Regresión Logística,3,recall_negativa,0.049019607843137254
+Regresión Logística,4,recall_negativa,0.025423728813559324
+Regresión Logística,5,recall_negativa,0.04081632653061224
+Regresión Logística,1,f1_negativa,0.11666666666666667
+Regresión Logística,2,f1_negativa,0.08421052631578947
+Regresión Logística,3,f1_negativa,0.09259259259259259
+Regresión Logística,4,f1_negativa,0.049586776859504134
+Regresión Logística,5,f1_negativa,0.0784313725490196
+Regresión Logística - balanceada,1,accuracy,0.8684546615581098
+Regresión Logística - balanceada,2,accuracy,0.8782383419689119
+Regresión Logística - balanceada,3,accuracy,0.8624338624338624
+Regresión Logística - balanceada,4,accuracy,0.8864229765013055
+Regresión Logística - balanceada,5,accuracy,0.8674242424242424
+Regresión Logística - balanceada,1,balanced_accuracy,0.7759939241843878
+Regresión Logística - balanceada,2,balanced_accuracy,0.7894944642769013
+Regresión Logística - balanceada,3,balanced_accuracy,0.7632667745997481
+Regresión Logística - balanceada,4,balanced_accuracy,0.8081057752667922
+Regresión Logística - balanceada,5,balanced_accuracy,0.797285773098865
+Regresión Logística - balanceada,1,precision_macro,0.7374704518592599
+Regresión Logística - balanceada,2,precision_macro,0.7175888717156105
+Regresión Logística - balanceada,3,precision_macro,0.7158024084541657
+Regresión Logística - balanceada,4,precision_macro,0.7798346577343833
+Regresión Logística - balanceada,5,precision_macro,0.7155199061983691
+Regresión Logística - balanceada,1,recall_macro,0.7759939241843878
+Regresión Logística - balanceada,2,recall_macro,0.7894944642769013
+Regresión Logística - balanceada,3,recall_macro,0.7632667745997481
+Regresión Logística - balanceada,4,recall_macro,0.8081057752667922
+Regresión Logística - balanceada,5,recall_macro,0.797285773098865
+Regresión Logística - balanceada,1,f1_macro,0.754068666465406
+Regresión Logística - balanceada,2,f1_macro,0.7450354859110393
+Regresión Logística - balanceada,3,f1_macro,0.7352370689655172
+Regresión Logística - balanceada,4,f1_macro,0.7927353816583782
+Regresión Logística - balanceada,5,f1_macro,0.7448007291407739
+Regresión Logística - balanceada,1,precision_negativa,0.5367647058823529
+Regresión Logística - balanceada,2,precision_negativa,0.48
+Regresión Logística - balanceada,3,precision_negativa,0.49230769230769234
+Regresión Logística - balanceada,4,precision_negativa,0.6165413533834586
+Regresión Logística - balanceada,5,precision_negativa,0.47586206896551725
+Regresión Logística - balanceada,1,recall_negativa,0.6460176991150443
+Regresión Logística - balanceada,2,recall_negativa,0.6741573033707865
+Regresión Logística - balanceada,3,recall_negativa,0.6274509803921569
+Regresión Logística - balanceada,4,recall_negativa,0.6949152542372882
+Regresión Logística - balanceada,5,recall_negativa,0.7040816326530612
+Regresión Logística - balanceada,1,f1_negativa,0.5863453815261044
+Regresión Logística - balanceada,2,f1_negativa,0.5607476635514018
+Regresión Logística - balanceada,3,f1_negativa,0.5517241379310345
+Regresión Logística - balanceada,4,f1_negativa,0.6533864541832669
+Regresión Logística - balanceada,5,f1_negativa,0.5679012345679012
+Linear SVM,1,accuracy,0.8888888888888888
+Linear SVM,2,accuracy,0.9183937823834197
+Linear SVM,3,accuracy,0.8809523809523809
+Linear SVM,4,accuracy,0.891644908616188
+Linear SVM,5,accuracy,0.9027777777777778
+Linear SVM,1,balanced_accuracy,0.6518293488310659
+Linear SVM,2,balanced_accuracy,0.6998124599009656
+Linear SVM,3,balanced_accuracy,0.6332973556395035
+Linear SVM,4,balanced_accuracy,0.6794962335216572
+Linear SVM,5,balanced_accuracy,0.6947744515673705
+Linear SVM,1,precision_macro,0.8390655418559377
+Linear SVM,2,precision_macro,0.8495050644567219
+Linear SVM,3,precision_macro,0.7616525423728814
+Linear SVM,4,precision_macro,0.8632009314879991
+Linear SVM,5,precision_macro,0.7970778856719966
+Linear SVM,1,recall_macro,0.6518293488310659
+Linear SVM,2,recall_macro,0.6998124599009656
+Linear SVM,3,recall_macro,0.6332973556395035
+Linear SVM,4,recall_macro,0.6794962335216572
+Linear SVM,5,recall_macro,0.6947744515673705
+Linear SVM,1,f1_macro,0.6954982499899425
+Linear SVM,2,f1_macro,0.7476849329992374
+Linear SVM,3,f1_macro,0.6669603524229075
+Linear SVM,4,f1_macro,0.7268176564359712
+Linear SVM,5,f1_macro,0.7308440913604767
+Linear SVM,1,precision_negativa,0.782608695652174
+Linear SVM,2,precision_negativa,0.7708333333333334
+Linear SVM,3,precision_negativa,0.625
+Linear SVM,4,precision_negativa,0.8301886792452831
+Linear SVM,5,precision_negativa,0.6721311475409836
+Linear SVM,1,recall_negativa,0.3185840707964602
+Linear SVM,2,recall_negativa,0.4157303370786517
+Linear SVM,3,recall_negativa,0.29411764705882354
+Linear SVM,4,recall_negativa,0.3728813559322034
+Linear SVM,5,recall_negativa,0.41836734693877553
+Linear SVM,1,f1_negativa,0.4528301886792453
+Linear SVM,2,f1_negativa,0.5401459854014599
+Linear SVM,3,f1_negativa,0.4
+Linear SVM,4,f1_negativa,0.5146198830409356
+Linear SVM,5,f1_negativa,0.5157232704402516
+Linear SVM - balanceada,1,accuracy,0.8735632183908046
+Linear SVM - balanceada,2,accuracy,0.9093264248704663
+Linear SVM - balanceada,3,accuracy,0.8862433862433863
+Linear SVM - balanceada,4,accuracy,0.902088772845953
+Linear SVM - balanceada,5,accuracy,0.8939393939393939
+Linear SVM - balanceada,1,balanced_accuracy,0.712765816933034
+Linear SVM - balanceada,2,balanced_accuracy,0.7630907924391728
+Linear SVM - balanceada,3,balanced_accuracy,0.7149667206332074
+Linear SVM - balanceada,4,balanced_accuracy,0.7653797865662273
+Linear SVM - balanceada,5,balanced_accuracy,0.7510733399988236
+Linear SVM - balanceada,1,precision_macro,0.7442458151382824
+Linear SVM - balanceada,2,precision_macro,0.7796527182751325
+Linear SVM - balanceada,3,precision_macro,0.7594629803864804
+Linear SVM - balanceada,4,precision_macro,0.8303540903540904
+Linear SVM - balanceada,5,precision_macro,0.7555675287356322
+Linear SVM - balanceada,1,recall_macro,0.712765816933034
+Linear SVM - balanceada,2,recall_macro,0.7630907924391728
+Linear SVM - balanceada,3,recall_macro,0.7149667206332074
+Linear SVM - balanceada,4,recall_macro,0.7653797865662273
+Linear SVM - balanceada,5,recall_macro,0.7510733399988236
+Linear SVM - balanceada,1,f1_macro,0.7266803707869527
+Linear SVM - balanceada,2,f1_macro,0.7710014238253442
+Linear SVM - balanceada,3,f1_macro,0.7339248297537978
+Linear SVM - balanceada,4,f1_macro,0.7922294914776118
+Linear SVM - balanceada,5,f1_macro,0.7532893273010457
+Linear SVM - balanceada,1,precision_negativa,0.5729166666666666
+Linear SVM - balanceada,2,precision_negativa,0.6144578313253012
+Linear SVM - balanceada,3,precision_negativa,0.5975609756097561
+Linear SVM - balanceada,4,precision_negativa,0.7362637362637363
+Linear SVM - balanceada,5,precision_negativa,0.5729166666666666
+Linear SVM - balanceada,1,recall_negativa,0.48672566371681414
+Linear SVM - balanceada,2,recall_negativa,0.5730337078651685
+Linear SVM - balanceada,3,recall_negativa,0.4803921568627451
+Linear SVM - balanceada,4,recall_negativa,0.5677966101694916
+Linear SVM - balanceada,5,recall_negativa,0.5612244897959183
+Linear SVM - balanceada,1,f1_negativa,0.5263157894736842
+Linear SVM - balanceada,2,f1_negativa,0.5930232558139535
+Linear SVM - balanceada,3,f1_negativa,0.532608695652174
+Linear SVM - balanceada,4,f1_negativa,0.6411483253588517
+Linear SVM - balanceada,5,f1_negativa,0.5670103092783505

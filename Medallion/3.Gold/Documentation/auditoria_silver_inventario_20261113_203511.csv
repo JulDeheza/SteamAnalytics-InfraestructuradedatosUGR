@@ -1,0 +1,10 @@
+﻿archivo,ruta_relativa,extension,tamano_bytes,tamano_mb,ultima_modificacion
+consolidado_TOTAL.parquet,Data/consolidado_TOTAL.parquet,.parquet,46484526,44.331,2026-11-13T19:50:35
+consolidado_novedades_juegos.parquet,Data/consolidado_novedades_juegos.parquet,.parquet,4459358,4.253,2026-11-13T19:50:33
+consolidado_usuarios.parquet,Data/consolidado_usuarios.parquet,.parquet,8417797,8.028,2026-11-13T19:50:34
+novedades_2020.parquet,Data/recortes/novedades_2020.parquet,.parquet,838878,0.8,2026-11-13T19:50:34
+novedades_2021.parquet,Data/recortes/novedades_2021.parquet,.parquet,1014632,0.968,2026-11-13T19:50:34
+novedades_2022.parquet,Data/recortes/novedades_2022.parquet,.parquet,840406,0.801,2026-11-13T19:50:34
+novedades_2023.parquet,Data/recortes/novedades_2023.parquet,.parquet,717678,0.684,2026-11-13T19:50:34
+novedades_2024.parquet,Data/recortes/novedades_2024.parquet,.parquet,591224,0.564,2026-11-13T19:50:34
+novedades_2025.parquet,Data/recortes/novedades_2025.parquet,.parquet,567066,0.541,2026-11-13T19:50:33

@@ -1,0 +1,3 @@
+﻿particion,documentos,caracteristicas,valores_no_cero,densidad_pct,filas_sin_caracteristicas
+Entrenamiento,3869,19114,166320,0.2249024388311207,143
+Prueba,937,19114,35625,0.19891324412118538,55

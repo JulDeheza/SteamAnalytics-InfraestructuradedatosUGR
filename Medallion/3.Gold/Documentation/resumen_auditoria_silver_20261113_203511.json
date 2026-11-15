@@ -1,0 +1,20 @@
+{
+    "proyecto": "Steam Data Pipeline",
+    "capa_auditada": "Silver",
+    "fecha_auditoria": "20261113_203511",
+    "archivos_encontrados": 9,
+    "archivos_cargados": 9,
+    "errores_lectura": 0,
+    "total_columnas": 211,
+    "total_registros": {
+        "Data/consolidado_TOTAL.parquet": 50000,
+        "Data/consolidado_novedades_juegos.parquet": 5039,
+        "Data/consolidado_usuarios.parquet": 38999,
+        "Data/recortes/novedades_2020.parquet": 949,
+        "Data/recortes/novedades_2021.parquet": 1272,
+        "Data/recortes/novedades_2022.parquet": 847,
+        "Data/recortes/novedades_2023.parquet": 789,
+        "Data/recortes/novedades_2024.parquet": 627,
+        "Data/recortes/novedades_2025.parquet": 555
+    }
+}

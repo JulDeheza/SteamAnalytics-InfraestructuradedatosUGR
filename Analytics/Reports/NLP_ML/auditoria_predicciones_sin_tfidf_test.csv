@@ -1,0 +1,3 @@
+﻿modelo,documentos,predichas_negativas,predichas_positivas,reales_negativas,reales_positivas,aciertos,accuracy
+Linear SVM balanceada C=0.1,55,0,55,1,54,54,0.9818181818181818
+Regresión Logística balanceada C=1,55,0,55,1,54,54,0.9818181818181818

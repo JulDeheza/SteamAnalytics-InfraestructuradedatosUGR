@@ -1,0 +1,616 @@
+{
+    "fecha_auditoria_utc": "2026-11-13T22:05:49.917310+00:00",
+    "capa": "SILVER",
+    "estado_general": "APROBADO CON ADVERTENCIAS",
+    "controles_ok": 100,
+    "advertencias": 1,
+    "errores": 0,
+    "resultados": [
+        {
+            "categoria": "ARCHIVOS",
+            "control": "Existencia de juegos",
+            "estado": "OK",
+            "detalle": "Archivo encontrado: juegos.parquet"
+        },
+        {
+            "categoria": "ARCHIVOS",
+            "control": "Existencia de usuarios",
+            "estado": "OK",
+            "detalle": "Archivo encontrado: usuarios.parquet"
+        },
+        {
+            "categoria": "ARCHIVOS",
+            "control": "Existencia de novedades",
+            "estado": "OK",
+            "detalle": "Archivo encontrado: novedades.parquet"
+        },
+        {
+            "categoria": "ARCHIVOS",
+            "control": "Existencia de novedades_juegos",
+            "estado": "OK",
+            "detalle": "Archivo encontrado: novedades_juegos.parquet"
+        },
+        {
+            "categoria": "ARCHIVOS",
+            "control": "Existencia de resenas",
+            "estado": "OK",
+            "detalle": "Archivo encontrado: resenas.parquet"
+        },
+        {
+            "categoria": "ARCHIVOS",
+            "control": "Existencia de resenas_consolidadas",
+            "estado": "OK",
+            "detalle": "Archivo encontrado: resenas_consolidadas.parquet"
+        },
+        {
+            "categoria": "ARCHIVOS",
+            "control": "Existencia de novedades_consolidadas",
+            "estado": "OK",
+            "detalle": "Archivo encontrado: novedades_consolidadas.parquet"
+        },
+        {
+            "categoria": "ARCHIVOS",
+            "control": "Existencia recorte 2020",
+            "estado": "OK",
+            "detalle": "Recorte encontrado: novedades_2020.parquet"
+        },
+        {
+            "categoria": "ARCHIVOS",
+            "control": "Existencia recorte 2021",
+            "estado": "OK",
+            "detalle": "Recorte encontrado: novedades_2021.parquet"
+        },
+        {
+            "categoria": "ARCHIVOS",
+            "control": "Existencia recorte 2022",
+            "estado": "OK",
+            "detalle": "Recorte encontrado: novedades_2022.parquet"
+        },
+        {
+            "categoria": "ARCHIVOS",
+            "control": "Existencia recorte 2023",
+            "estado": "OK",
+            "detalle": "Recorte encontrado: novedades_2023.parquet"
+        },
+        {
+            "categoria": "ARCHIVOS",
+            "control": "Existencia recorte 2024",
+            "estado": "OK",
+            "detalle": "Recorte encontrado: novedades_2024.parquet"
+        },
+        {
+            "categoria": "ARCHIVOS",
+            "control": "Existencia recorte 2025",
+            "estado": "OK",
+            "detalle": "Recorte encontrado: novedades_2025.parquet"
+        },
+        {
+            "categoria": "CARGA",
+            "control": "Carga de juegos",
+            "estado": "OK",
+            "detalle": "5,000 filas; 4 columnas"
+        },
+        {
+            "categoria": "CARGA",
+            "control": "Carga de usuarios",
+            "estado": "OK",
+            "detalle": "38,999 filas; 25 columnas"
+        },
+        {
+            "categoria": "CARGA",
+            "control": "Carga de novedades",
+            "estado": "OK",
+            "detalle": "5,039 filas; 19 columnas"
+        },
+        {
+            "categoria": "CARGA",
+            "control": "Carga de novedades_juegos",
+            "estado": "OK",
+            "detalle": "5,039 filas; 20 columnas"
+        },
+        {
+            "categoria": "CARGA",
+            "control": "Carga de resenas",
+            "estado": "OK",
+            "detalle": "46,990 filas; 34 columnas"
+        },
+        {
+            "categoria": "CARGA",
+            "control": "Carga de resenas_consolidadas",
+            "estado": "OK",
+            "detalle": "46,990 filas; 63 columnas"
+        },
+        {
+            "categoria": "CARGA",
+            "control": "Carga de novedades_consolidadas",
+            "estado": "OK",
+            "detalle": "5,039 filas; 20 columnas"
+        },
+        {
+            "categoria": "CARGA",
+            "control": "Carga recorte 2020",
+            "estado": "OK",
+            "detalle": "949 filas"
+        },
+        {
+            "categoria": "CARGA",
+            "control": "Carga recorte 2021",
+            "estado": "OK",
+            "detalle": "1,272 filas"
+        },
+        {
+            "categoria": "CARGA",
+            "control": "Carga recorte 2022",
+            "estado": "OK",
+            "detalle": "847 filas"
+        },
+        {
+            "categoria": "CARGA",
+            "control": "Carga recorte 2023",
+            "estado": "OK",
+            "detalle": "789 filas"
+        },
+        {
+            "categoria": "CARGA",
+            "control": "Carga recorte 2024",
+            "estado": "OK",
+            "detalle": "627 filas"
+        },
+        {
+            "categoria": "CARGA",
+            "control": "Carga recorte 2025",
+            "estado": "OK",
+            "detalle": "555 filas"
+        },
+        {
+            "categoria": "CLAVES",
+            "control": "Nulos en juegos.appid",
+            "estado": "OK",
+            "detalle": "Sin valores nulos"
+        },
+        {
+            "categoria": "CLAVES",
+            "control": "Duplicados en juegos.appid",
+            "estado": "OK",
+            "detalle": "Clave única"
+        },
+        {
+            "categoria": "CLAVES",
+            "control": "Nulos en usuarios.steamid",
+            "estado": "OK",
+            "detalle": "Sin valores nulos"
+        },
+        {
+            "categoria": "CLAVES",
+            "control": "Duplicados en usuarios.steamid",
+            "estado": "OK",
+            "detalle": "Clave única"
+        },
+        {
+            "categoria": "CLAVES",
+            "control": "Nulos en novedades.gid",
+            "estado": "OK",
+            "detalle": "Sin valores nulos"
+        },
+        {
+            "categoria": "CLAVES",
+            "control": "Duplicados en novedades.gid",
+            "estado": "OK",
+            "detalle": "Clave única"
+        },
+        {
+            "categoria": "CLAVES",
+            "control": "Nulos en novedades_juegos.gid",
+            "estado": "OK",
+            "detalle": "Sin valores nulos"
+        },
+        {
+            "categoria": "CLAVES",
+            "control": "Duplicados en novedades_juegos.gid",
+            "estado": "OK",
+            "detalle": "Clave única"
+        },
+        {
+            "categoria": "CLAVES",
+            "control": "Nulos en resenas.recommendationid",
+            "estado": "OK",
+            "detalle": "Sin valores nulos"
+        },
+        {
+            "categoria": "CLAVES",
+            "control": "Duplicados en resenas.recommendationid",
+            "estado": "OK",
+            "detalle": "Clave única"
+        },
+        {
+            "categoria": "CLAVES",
+            "control": "Nulos en resenas_consolidadas.recommendationid",
+            "estado": "OK",
+            "detalle": "Sin valores nulos"
+        },
+        {
+            "categoria": "CLAVES",
+            "control": "Duplicados en resenas_consolidadas.recommendationid",
+            "estado": "OK",
+            "detalle": "Clave única"
+        },
+        {
+            "categoria": "CLAVES",
+            "control": "Nulos en novedades_consolidadas.gid",
+            "estado": "OK",
+            "detalle": "Sin valores nulos"
+        },
+        {
+            "categoria": "CLAVES",
+            "control": "Duplicados en novedades_consolidadas.gid",
+            "estado": "OK",
+            "detalle": "Clave única"
+        },
+        {
+            "categoria": "CANTIDADES",
+            "control": "Cantidad de juegos",
+            "estado": "OK",
+            "detalle": "5,000 registros, cantidad esperada"
+        },
+        {
+            "categoria": "CANTIDADES",
+            "control": "Cantidad de usuarios",
+            "estado": "OK",
+            "detalle": "38,999 registros, cantidad esperada"
+        },
+        {
+            "categoria": "CANTIDADES",
+            "control": "Cantidad de novedades",
+            "estado": "OK",
+            "detalle": "5,039 registros, cantidad esperada"
+        },
+        {
+            "categoria": "CANTIDADES",
+            "control": "Cantidad de novedades_juegos",
+            "estado": "OK",
+            "detalle": "5,039 registros, cantidad esperada"
+        },
+        {
+            "categoria": "CANTIDADES",
+            "control": "Cantidad de resenas",
+            "estado": "OK",
+            "detalle": "46,990 registros, cantidad esperada"
+        },
+        {
+            "categoria": "CANTIDADES",
+            "control": "Cantidad de resenas_consolidadas",
+            "estado": "OK",
+            "detalle": "46,990 registros, cantidad esperada"
+        },
+        {
+            "categoria": "CANTIDADES",
+            "control": "Cantidad de novedades_consolidadas",
+            "estado": "OK",
+            "detalle": "5,039 registros, cantidad esperada"
+        },
+        {
+            "categoria": "BRONZE_SILVER",
+            "control": "Bronze vs Silver: juegos",
+            "estado": "OK",
+            "detalle": "Bronze: 5,000; Silver: 5,000"
+        },
+        {
+            "categoria": "BRONZE_SILVER",
+            "control": "Bronze vs Silver: usuarios",
+            "estado": "OK",
+            "detalle": "Bronze: 38,999; Silver: 38,999"
+        },
+        {
+            "categoria": "BRONZE_SILVER",
+            "control": "Bronze vs Silver: novedades",
+            "estado": "OK",
+            "detalle": "Bronze: 5,039; Silver: 5,039"
+        },
+        {
+            "categoria": "BRONZE_SILVER",
+            "control": "Bronze vs Silver: resenas",
+            "estado": "OK",
+            "detalle": "Bronze: 46,990; Silver: 46,990"
+        },
+        {
+            "categoria": "RELACIONES",
+            "control": "Integridad de RecommendationID",
+            "estado": "OK",
+            "detalle": "Todas las reseñas originales están conservadas"
+        },
+        {
+            "categoria": "RELACIONES",
+            "control": "Relacion reseñas-juegos",
+            "estado": "OK",
+            "detalle": "Todas las reseñas tienen juego asociado"
+        },
+        {
+            "categoria": "RELACIONES",
+            "control": "Relacion reseñas-usuarios",
+            "estado": "ADVERTENCIA",
+            "detalle": "1 reseña(s) sin usuario asociado; 46,989 asociadas. Los registros se conservaron."
+        },
+        {
+            "categoria": "RELACIONES",
+            "control": "Consistencia estados de usuarios",
+            "estado": "OK",
+            "detalle": "Todos los registros tienen estado de relación"
+        },
+        {
+            "categoria": "NOVEDADES",
+            "control": "Integridad de GID",
+            "estado": "OK",
+            "detalle": "Todos los GID originales están conservados"
+        },
+        {
+            "categoria": "RECORTES",
+            "control": "GID no nulos recorte 2020",
+            "estado": "OK",
+            "detalle": "Todos los GID están completos"
+        },
+        {
+            "categoria": "RECORTES",
+            "control": "GID únicos recorte 2020",
+            "estado": "OK",
+            "detalle": "No hay GID duplicados"
+        },
+        {
+            "categoria": "RECORTES",
+            "control": "Cantidad recorte 2020",
+            "estado": "OK",
+            "detalle": "949 registros"
+        },
+        {
+            "categoria": "RECORTES",
+            "control": "Consistencia temporal 2020",
+            "estado": "OK",
+            "detalle": "Todos los registros pertenecen a 2020"
+        },
+        {
+            "categoria": "RECORTES",
+            "control": "GID no nulos recorte 2021",
+            "estado": "OK",
+            "detalle": "Todos los GID están completos"
+        },
+        {
+            "categoria": "RECORTES",
+            "control": "GID únicos recorte 2021",
+            "estado": "OK",
+            "detalle": "No hay GID duplicados"
+        },
+        {
+            "categoria": "RECORTES",
+            "control": "Cantidad recorte 2021",
+            "estado": "OK",
+            "detalle": "1,272 registros"
+        },
+        {
+            "categoria": "RECORTES",
+            "control": "Consistencia temporal 2021",
+            "estado": "OK",
+            "detalle": "Todos los registros pertenecen a 2021"
+        },
+        {
+            "categoria": "RECORTES",
+            "control": "GID no nulos recorte 2022",
+            "estado": "OK",
+            "detalle": "Todos los GID están completos"
+        },
+        {
+            "categoria": "RECORTES",
+            "control": "GID únicos recorte 2022",
+            "estado": "OK",
+            "detalle": "No hay GID duplicados"
+        },
+        {
+            "categoria": "RECORTES",
+            "control": "Cantidad recorte 2022",
+            "estado": "OK",
+            "detalle": "847 registros"
+        },
+        {
+            "categoria": "RECORTES",
+            "control": "Consistencia temporal 2022",
+            "estado": "OK",
+            "detalle": "Todos los registros pertenecen a 2022"
+        },
+        {
+            "categoria": "RECORTES",
+            "control": "GID no nulos recorte 2023",
+            "estado": "OK",
+            "detalle": "Todos los GID están completos"
+        },
+        {
+            "categoria": "RECORTES",
+            "control": "GID únicos recorte 2023",
+            "estado": "OK",
+            "detalle": "No hay GID duplicados"
+        },
+        {
+            "categoria": "RECORTES",
+            "control": "Cantidad recorte 2023",
+            "estado": "OK",
+            "detalle": "789 registros"
+        },
+        {
+            "categoria": "RECORTES",
+            "control": "Consistencia temporal 2023",
+            "estado": "OK",
+            "detalle": "Todos los registros pertenecen a 2023"
+        },
+        {
+            "categoria": "RECORTES",
+            "control": "GID no nulos recorte 2024",
+            "estado": "OK",
+            "detalle": "Todos los GID están completos"
+        },
+        {
+            "categoria": "RECORTES",
+            "control": "GID únicos recorte 2024",
+            "estado": "OK",
+            "detalle": "No hay GID duplicados"
+        },
+        {
+            "categoria": "RECORTES",
+            "control": "Cantidad recorte 2024",
+            "estado": "OK",
+            "detalle": "627 registros"
+        },
+        {
+            "categoria": "RECORTES",
+            "control": "Consistencia temporal 2024",
+            "estado": "OK",
+            "detalle": "Todos los registros pertenecen a 2024"
+        },
+        {
+            "categoria": "RECORTES",
+            "control": "GID no nulos recorte 2025",
+            "estado": "OK",
+            "detalle": "Todos los GID están completos"
+        },
+        {
+            "categoria": "RECORTES",
+            "control": "GID únicos recorte 2025",
+            "estado": "OK",
+            "detalle": "No hay GID duplicados"
+        },
+        {
+            "categoria": "RECORTES",
+            "control": "Cantidad recorte 2025",
+            "estado": "OK",
+            "detalle": "555 registros"
+        },
+        {
+            "categoria": "RECORTES",
+            "control": "Consistencia temporal 2025",
+            "estado": "OK",
+            "detalle": "Todos los registros pertenecen a 2025"
+        },
+        {
+            "categoria": "RECORTES",
+            "control": "GID únicos entre recortes",
+            "estado": "OK",
+            "detalle": "No hay publicaciones repetidas entre años"
+        },
+        {
+            "categoria": "RECORTES",
+            "control": "Cobertura total de recortes",
+            "estado": "OK",
+            "detalle": "Los recortes cubren las 5,039 publicaciones del período"
+        },
+        {
+            "categoria": "RECORTES",
+            "control": "Total de recortes",
+            "estado": "OK",
+            "detalle": "5,039 publicaciones"
+        },
+        {
+            "categoria": "NULOS",
+            "control": "Nulos en juegos",
+            "estado": "OK",
+            "detalle": "0 celdas nulas en 0 columnas. Se informan sin eliminarlos."
+        },
+        {
+            "categoria": "NULOS",
+            "control": "Nulos en usuarios",
+            "estado": "OK",
+            "detalle": "345,109 celdas nulas en 16 columnas. Se informan sin eliminarlos."
+        },
+        {
+            "categoria": "NULOS",
+            "control": "Nulos en novedades",
+            "estado": "OK",
+            "detalle": "4,341 celdas nulas en 1 columnas. Se informan sin eliminarlos."
+        },
+        {
+            "categoria": "NULOS",
+            "control": "Nulos en novedades_juegos",
+            "estado": "OK",
+            "detalle": "4,347 celdas nulas en 2 columnas. Se informan sin eliminarlos."
+        },
+        {
+            "categoria": "NULOS",
+            "control": "Nulos en resenas",
+            "estado": "OK",
+            "detalle": "405,249 celdas nulas en 11 columnas. Se informan sin eliminarlos."
+        },
+        {
+            "categoria": "NULOS",
+            "control": "Nulos en resenas_consolidadas",
+            "estado": "OK",
+            "detalle": "814,653 celdas nulas en 35 columnas. Se informan sin eliminarlos."
+        },
+        {
+            "categoria": "NULOS",
+            "control": "Nulos en novedades_consolidadas",
+            "estado": "OK",
+            "detalle": "4,347 celdas nulas en 2 columnas. Se informan sin eliminarlos."
+        },
+        {
+            "categoria": "FECHAS",
+            "control": "Fechas usuarios.timecreated_parsed",
+            "estado": "OK",
+            "detalle": "33,088 fechas válidas"
+        },
+        {
+            "categoria": "FECHAS",
+            "control": "Fechas novedades.date_parsed",
+            "estado": "OK",
+            "detalle": "5,039 fechas válidas"
+        },
+        {
+            "categoria": "FECHAS",
+            "control": "Fechas resenas.timestamp_created_parsed",
+            "estado": "OK",
+            "detalle": "46,990 fechas válidas"
+        },
+        {
+            "categoria": "FECHAS",
+            "control": "Fechas resenas.timestamp_updated_parsed",
+            "estado": "OK",
+            "detalle": "46,990 fechas válidas"
+        },
+        {
+            "categoria": "FECHAS",
+            "control": "Fechas resenas.author.last_played_parsed",
+            "estado": "OK",
+            "detalle": "46,953 fechas válidas"
+        },
+        {
+            "categoria": "FECHAS",
+            "control": "Fechas resenas.timestamp_dev_responded_parsed",
+            "estado": "OK",
+            "detalle": "18 fechas válidas"
+        },
+        {
+            "categoria": "FECHAS",
+            "control": "Fechas resenas_consolidadas.timestamp_created_parsed",
+            "estado": "OK",
+            "detalle": "46,990 fechas válidas"
+        },
+        {
+            "categoria": "FECHAS",
+            "control": "Fechas resenas_consolidadas.timestamp_updated_parsed",
+            "estado": "OK",
+            "detalle": "46,990 fechas válidas"
+        },
+        {
+            "categoria": "FECHAS",
+            "control": "Fechas resenas_consolidadas.author.last_played_parsed",
+            "estado": "OK",
+            "detalle": "46,953 fechas válidas"
+        },
+        {
+            "categoria": "FECHAS",
+            "control": "Fechas resenas_consolidadas.timestamp_dev_responded_parsed",
+            "estado": "OK",
+            "detalle": "18 fechas válidas"
+        },
+        {
+            "categoria": "FECHAS",
+            "control": "Fechas resenas_consolidadas.timecreated_parsed",
+            "estado": "OK",
+            "detalle": "40,087 fechas válidas"
+        }
+    ]
+}

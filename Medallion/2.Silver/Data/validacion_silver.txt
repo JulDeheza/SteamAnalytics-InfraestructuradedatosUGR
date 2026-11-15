@@ -1,0 +1,114 @@
+======================================================================
+INFORME DE VALIDACION - CAPA SILVER
+======================================================================
+Fecha UTC: 2026-11-13T22:05:49.917310+00:00
+Estado general: APROBADO CON ADVERTENCIAS
+Controles OK: 100
+Advertencias: 1
+Errores: 0
+
+DETALLE DE CONTROLES
+----------------------------------------------------------------------
+[OK] ARCHIVOS - Existencia de juegos: Archivo encontrado: juegos.parquet
+[OK] ARCHIVOS - Existencia de usuarios: Archivo encontrado: usuarios.parquet
+[OK] ARCHIVOS - Existencia de novedades: Archivo encontrado: novedades.parquet
+[OK] ARCHIVOS - Existencia de novedades_juegos: Archivo encontrado: novedades_juegos.parquet
+[OK] ARCHIVOS - Existencia de resenas: Archivo encontrado: resenas.parquet
+[OK] ARCHIVOS - Existencia de resenas_consolidadas: Archivo encontrado: resenas_consolidadas.parquet
+[OK] ARCHIVOS - Existencia de novedades_consolidadas: Archivo encontrado: novedades_consolidadas.parquet
+[OK] ARCHIVOS - Existencia recorte 2020: Recorte encontrado: novedades_2020.parquet
+[OK] ARCHIVOS - Existencia recorte 2021: Recorte encontrado: novedades_2021.parquet
+[OK] ARCHIVOS - Existencia recorte 2022: Recorte encontrado: novedades_2022.parquet
+[OK] ARCHIVOS - Existencia recorte 2023: Recorte encontrado: novedades_2023.parquet
+[OK] ARCHIVOS - Existencia recorte 2024: Recorte encontrado: novedades_2024.parquet
+[OK] ARCHIVOS - Existencia recorte 2025: Recorte encontrado: novedades_2025.parquet
+[OK] CARGA - Carga de juegos: 5,000 filas; 4 columnas
+[OK] CARGA - Carga de usuarios: 38,999 filas; 25 columnas
+[OK] CARGA - Carga de novedades: 5,039 filas; 19 columnas
+[OK] CARGA - Carga de novedades_juegos: 5,039 filas; 20 columnas
+[OK] CARGA - Carga de resenas: 46,990 filas; 34 columnas
+[OK] CARGA - Carga de resenas_consolidadas: 46,990 filas; 63 columnas
+[OK] CARGA - Carga de novedades_consolidadas: 5,039 filas; 20 columnas
+[OK] CARGA - Carga recorte 2020: 949 filas
+[OK] CARGA - Carga recorte 2021: 1,272 filas
+[OK] CARGA - Carga recorte 2022: 847 filas
+[OK] CARGA - Carga recorte 2023: 789 filas
+[OK] CARGA - Carga recorte 2024: 627 filas
+[OK] CARGA - Carga recorte 2025: 555 filas
+[OK] CLAVES - Nulos en juegos.appid: Sin valores nulos
+[OK] CLAVES - Duplicados en juegos.appid: Clave única
+[OK] CLAVES - Nulos en usuarios.steamid: Sin valores nulos
+[OK] CLAVES - Duplicados en usuarios.steamid: Clave única
+[OK] CLAVES - Nulos en novedades.gid: Sin valores nulos
+[OK] CLAVES - Duplicados en novedades.gid: Clave única
+[OK] CLAVES - Nulos en novedades_juegos.gid: Sin valores nulos
+[OK] CLAVES - Duplicados en novedades_juegos.gid: Clave única
+[OK] CLAVES - Nulos en resenas.recommendationid: Sin valores nulos
+[OK] CLAVES - Duplicados en resenas.recommendationid: Clave única
+[OK] CLAVES - Nulos en resenas_consolidadas.recommendationid: Sin valores nulos
+[OK] CLAVES - Duplicados en resenas_consolidadas.recommendationid: Clave única
+[OK] CLAVES - Nulos en novedades_consolidadas.gid: Sin valores nulos
+[OK] CLAVES - Duplicados en novedades_consolidadas.gid: Clave única
+[OK] CANTIDADES - Cantidad de juegos: 5,000 registros, cantidad esperada
+[OK] CANTIDADES - Cantidad de usuarios: 38,999 registros, cantidad esperada
+[OK] CANTIDADES - Cantidad de novedades: 5,039 registros, cantidad esperada
+[OK] CANTIDADES - Cantidad de novedades_juegos: 5,039 registros, cantidad esperada
+[OK] CANTIDADES - Cantidad de resenas: 46,990 registros, cantidad esperada
+[OK] CANTIDADES - Cantidad de resenas_consolidadas: 46,990 registros, cantidad esperada
+[OK] CANTIDADES - Cantidad de novedades_consolidadas: 5,039 registros, cantidad esperada
+[OK] BRONZE_SILVER - Bronze vs Silver: juegos: Bronze: 5,000; Silver: 5,000
+[OK] BRONZE_SILVER - Bronze vs Silver: usuarios: Bronze: 38,999; Silver: 38,999
+[OK] BRONZE_SILVER - Bronze vs Silver: novedades: Bronze: 5,039; Silver: 5,039
+[OK] BRONZE_SILVER - Bronze vs Silver: resenas: Bronze: 46,990; Silver: 46,990
+[OK] RELACIONES - Integridad de RecommendationID: Todas las reseñas originales están conservadas
+[OK] RELACIONES - Relacion reseñas-juegos: Todas las reseñas tienen juego asociado
+[ADVERTENCIA] RELACIONES - Relacion reseñas-usuarios: 1 reseña(s) sin usuario asociado; 46,989 asociadas. Los registros se conservaron.
+[OK] RELACIONES - Consistencia estados de usuarios: Todos los registros tienen estado de relación
+[OK] NOVEDADES - Integridad de GID: Todos los GID originales están conservados
+[OK] RECORTES - GID no nulos recorte 2020: Todos los GID están completos
+[OK] RECORTES - GID únicos recorte 2020: No hay GID duplicados
+[OK] RECORTES - Cantidad recorte 2020: 949 registros
+[OK] RECORTES - Consistencia temporal 2020: Todos los registros pertenecen a 2020
+[OK] RECORTES - GID no nulos recorte 2021: Todos los GID están completos
+[OK] RECORTES - GID únicos recorte 2021: No hay GID duplicados
+[OK] RECORTES - Cantidad recorte 2021: 1,272 registros
+[OK] RECORTES - Consistencia temporal 2021: Todos los registros pertenecen a 2021
+[OK] RECORTES - GID no nulos recorte 2022: Todos los GID están completos
+[OK] RECORTES - GID únicos recorte 2022: No hay GID duplicados
+[OK] RECORTES - Cantidad recorte 2022: 847 registros
+[OK] RECORTES - Consistencia temporal 2022: Todos los registros pertenecen a 2022
+[OK] RECORTES - GID no nulos recorte 2023: Todos los GID están completos
+[OK] RECORTES - GID únicos recorte 2023: No hay GID duplicados
+[OK] RECORTES - Cantidad recorte 2023: 789 registros
+[OK] RECORTES - Consistencia temporal 2023: Todos los registros pertenecen a 2023
+[OK] RECORTES - GID no nulos recorte 2024: Todos los GID están completos
+[OK] RECORTES - GID únicos recorte 2024: No hay GID duplicados
+[OK] RECORTES - Cantidad recorte 2024: 627 registros
+[OK] RECORTES - Consistencia temporal 2024: Todos los registros pertenecen a 2024
+[OK] RECORTES - GID no nulos recorte 2025: Todos los GID están completos
+[OK] RECORTES - GID únicos recorte 2025: No hay GID duplicados
+[OK] RECORTES - Cantidad recorte 2025: 555 registros
+[OK] RECORTES - Consistencia temporal 2025: Todos los registros pertenecen a 2025
+[OK] RECORTES - GID únicos entre recortes: No hay publicaciones repetidas entre años
+[OK] RECORTES - Cobertura total de recortes: Los recortes cubren las 5,039 publicaciones del período
+[OK] RECORTES - Total de recortes: 5,039 publicaciones
+[OK] NULOS - Nulos en juegos: 0 celdas nulas en 0 columnas. Se informan sin eliminarlos.
+[OK] NULOS - Nulos en usuarios: 345,109 celdas nulas en 16 columnas. Se informan sin eliminarlos.
+[OK] NULOS - Nulos en novedades: 4,341 celdas nulas en 1 columnas. Se informan sin eliminarlos.
+[OK] NULOS - Nulos en novedades_juegos: 4,347 celdas nulas en 2 columnas. Se informan sin eliminarlos.
+[OK] NULOS - Nulos en resenas: 405,249 celdas nulas en 11 columnas. Se informan sin eliminarlos.
+[OK] NULOS - Nulos en resenas_consolidadas: 814,653 celdas nulas en 35 columnas. Se informan sin eliminarlos.
+[OK] NULOS - Nulos en novedades_consolidadas: 4,347 celdas nulas en 2 columnas. Se informan sin eliminarlos.
+[OK] FECHAS - Fechas usuarios.timecreated_parsed: 33,088 fechas válidas
+[OK] FECHAS - Fechas novedades.date_parsed: 5,039 fechas válidas
+[OK] FECHAS - Fechas resenas.timestamp_created_parsed: 46,990 fechas válidas
+[OK] FECHAS - Fechas resenas.timestamp_updated_parsed: 46,990 fechas válidas
+[OK] FECHAS - Fechas resenas.author.last_played_parsed: 46,953 fechas válidas
+[OK] FECHAS - Fechas resenas.timestamp_dev_responded_parsed: 18 fechas válidas
+[OK] FECHAS - Fechas resenas_consolidadas.timestamp_created_parsed: 46,990 fechas válidas
+[OK] FECHAS - Fechas resenas_consolidadas.timestamp_updated_parsed: 46,990 fechas válidas
+[OK] FECHAS - Fechas resenas_consolidadas.author.last_played_parsed: 46,953 fechas válidas
+[OK] FECHAS - Fechas resenas_consolidadas.timestamp_dev_responded_parsed: 18 fechas válidas
+[OK] FECHAS - Fechas resenas_consolidadas.timecreated_parsed: 40,087 fechas válidas
+
+======================================================================

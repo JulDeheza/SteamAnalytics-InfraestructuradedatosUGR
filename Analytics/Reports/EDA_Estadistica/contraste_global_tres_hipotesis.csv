@@ -1,0 +1,4 @@
+﻿hipotesis,pregunta,metodo,p_valor_original,p_ajustado_global,significativo_sin_ajuste,significativo_con_ajuste,decision_global,observacion_numerica
+H1,Tiempo de juego y recomendación,Mann-Whitney U,0.0,0.0,True,True,Rechazar H0,El cálculo devolvió 0 por límite de precisión numérica
+H2,Idioma y recomendación,Chi-cuadrado de independencia,5.487806850090998e-48,1.6463420550272993e-47,True,True,Rechazar H0,Valor p calculado normalmente
+H3,Año de creación de cuenta y recomendación,Chi-cuadrado de independencia,0.029348760797861,0.088046282393583,True,False,No rechazar H0,Valor p calculado normalmente

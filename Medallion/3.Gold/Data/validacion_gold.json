@@ -1,0 +1,472 @@
+{
+    "fecha_validacion": "2026-11-14T13:41:22.957006",
+    "capa": "Gold",
+    "estado": "APROBADO CON ADVERTENCIAS",
+    "resumen": {
+        "controles_ok": 68,
+        "errores": 0,
+        "advertencias": 3
+    },
+    "archivos": {
+        "dim_usuarios": {
+            "filas": 39000,
+            "columnas": 28
+        },
+        "dim_juegos": {
+            "filas": 5001,
+            "columnas": 5
+        },
+        "dim_fecha": {
+            "filas": 7897,
+            "columnas": 11
+        },
+        "dim_idioma": {
+            "filas": 31,
+            "columnas": 2
+        },
+        "dim_hardware": {
+            "filas": 2837,
+            "columnas": 6
+        },
+        "fact_resenas": {
+            "filas": 46990,
+            "columnas": 33
+        },
+        "fact_novedades": {
+            "filas": 5039,
+            "columnas": 14
+        },
+        "agg_juego_mes": {
+            "filas": 13208,
+            "columnas": 7
+        }
+    },
+    "controles": [
+        {
+            "tipo": "CONTROL",
+            "control": "Existencia de dim_usuarios",
+            "resultado": "OK",
+            "detalle": "39,000 filas y 28 columnas"
+        },
+        {
+            "tipo": "CONTROL",
+            "control": "Existencia de dim_juegos",
+            "resultado": "OK",
+            "detalle": "5,001 filas y 5 columnas"
+        },
+        {
+            "tipo": "CONTROL",
+            "control": "Existencia de dim_fecha",
+            "resultado": "OK",
+            "detalle": "7,897 filas y 11 columnas"
+        },
+        {
+            "tipo": "CONTROL",
+            "control": "Existencia de dim_idioma",
+            "resultado": "OK",
+            "detalle": "31 filas y 2 columnas"
+        },
+        {
+            "tipo": "CONTROL",
+            "control": "Existencia de dim_hardware",
+            "resultado": "OK",
+            "detalle": "2,837 filas y 6 columnas"
+        },
+        {
+            "tipo": "CONTROL",
+            "control": "Existencia de fact_resenas",
+            "resultado": "OK",
+            "detalle": "46,990 filas y 33 columnas"
+        },
+        {
+            "tipo": "CONTROL",
+            "control": "Existencia de fact_novedades",
+            "resultado": "OK",
+            "detalle": "5,039 filas y 14 columnas"
+        },
+        {
+            "tipo": "CONTROL",
+            "control": "Existencia de agg_juego_mes",
+            "resultado": "OK",
+            "detalle": "13,208 filas y 7 columnas"
+        },
+        {
+            "tipo": "CONTROL",
+            "control": "dim_usuarios: columna PK",
+            "resultado": "OK",
+            "detalle": "Columna requerida: user_key"
+        },
+        {
+            "tipo": "CONTROL",
+            "control": "dim_usuarios: PK sin nulos",
+            "resultado": "OK",
+            "detalle": "Nulos: 0"
+        },
+        {
+            "tipo": "CONTROL",
+            "control": "dim_usuarios: PK sin duplicados",
+            "resultado": "OK",
+            "detalle": "Duplicados: 0"
+        },
+        {
+            "tipo": "CONTROL",
+            "control": "dim_usuarios: PK no negativas",
+            "resultado": "OK",
+            "detalle": "Las claves deben ser enteros no negativos."
+        },
+        {
+            "tipo": "CONTROL",
+            "control": "dim_usuarios: registro desconocido",
+            "resultado": "OK",
+            "detalle": "Se requiere una fila con clave sustituta 0."
+        },
+        {
+            "tipo": "CONTROL",
+            "control": "dim_juegos: columna PK",
+            "resultado": "OK",
+            "detalle": "Columna requerida: game_key"
+        },
+        {
+            "tipo": "CONTROL",
+            "control": "dim_juegos: PK sin nulos",
+            "resultado": "OK",
+            "detalle": "Nulos: 0"
+        },
+        {
+            "tipo": "CONTROL",
+            "control": "dim_juegos: PK sin duplicados",
+            "resultado": "OK",
+            "detalle": "Duplicados: 0"
+        },
+        {
+            "tipo": "CONTROL",
+            "control": "dim_juegos: PK no negativas",
+            "resultado": "OK",
+            "detalle": "Las claves deben ser enteros no negativos."
+        },
+        {
+            "tipo": "CONTROL",
+            "control": "dim_juegos: registro desconocido",
+            "resultado": "OK",
+            "detalle": "Se requiere una fila con clave sustituta 0."
+        },
+        {
+            "tipo": "CONTROL",
+            "control": "dim_fecha: columna PK",
+            "resultado": "OK",
+            "detalle": "Columna requerida: date_key"
+        },
+        {
+            "tipo": "CONTROL",
+            "control": "dim_fecha: PK sin nulos",
+            "resultado": "OK",
+            "detalle": "Nulos: 0"
+        },
+        {
+            "tipo": "CONTROL",
+            "control": "dim_fecha: PK sin duplicados",
+            "resultado": "OK",
+            "detalle": "Duplicados: 0"
+        },
+        {
+            "tipo": "CONTROL",
+            "control": "dim_fecha: PK no negativas",
+            "resultado": "OK",
+            "detalle": "Las claves deben ser enteros no negativos."
+        },
+        {
+            "tipo": "CONTROL",
+            "control": "dim_fecha: registro desconocido",
+            "resultado": "OK",
+            "detalle": "Se requiere una fila con clave sustituta 0."
+        },
+        {
+            "tipo": "CONTROL",
+            "control": "dim_idioma: columna PK",
+            "resultado": "OK",
+            "detalle": "Columna requerida: language_key"
+        },
+        {
+            "tipo": "CONTROL",
+            "control": "dim_idioma: PK sin nulos",
+            "resultado": "OK",
+            "detalle": "Nulos: 0"
+        },
+        {
+            "tipo": "CONTROL",
+            "control": "dim_idioma: PK sin duplicados",
+            "resultado": "OK",
+            "detalle": "Duplicados: 0"
+        },
+        {
+            "tipo": "CONTROL",
+            "control": "dim_idioma: PK no negativas",
+            "resultado": "OK",
+            "detalle": "Las claves deben ser enteros no negativos."
+        },
+        {
+            "tipo": "CONTROL",
+            "control": "dim_idioma: registro desconocido",
+            "resultado": "OK",
+            "detalle": "Se requiere una fila con clave sustituta 0."
+        },
+        {
+            "tipo": "CONTROL",
+            "control": "dim_hardware: columna PK",
+            "resultado": "OK",
+            "detalle": "Columna requerida: hardware_key"
+        },
+        {
+            "tipo": "CONTROL",
+            "control": "dim_hardware: PK sin nulos",
+            "resultado": "OK",
+            "detalle": "Nulos: 0"
+        },
+        {
+            "tipo": "CONTROL",
+            "control": "dim_hardware: PK sin duplicados",
+            "resultado": "OK",
+            "detalle": "Duplicados: 0"
+        },
+        {
+            "tipo": "CONTROL",
+            "control": "dim_hardware: PK no negativas",
+            "resultado": "OK",
+            "detalle": "Las claves deben ser enteros no negativos."
+        },
+        {
+            "tipo": "CONTROL",
+            "control": "dim_hardware: registro desconocido",
+            "resultado": "OK",
+            "detalle": "Se requiere una fila con clave sustituta 0."
+        },
+        {
+            "tipo": "CONTROL",
+            "control": "fact_resenas: identificador presente",
+            "resultado": "OK",
+            "detalle": "recommendationid"
+        },
+        {
+            "tipo": "CONTROL",
+            "control": "fact_resenas: identificador sin nulos",
+            "resultado": "OK",
+            "detalle": "Nulos: 0"
+        },
+        {
+            "tipo": "CONTROL",
+            "control": "fact_resenas: identificador único",
+            "resultado": "OK",
+            "detalle": "Duplicados: 0"
+        },
+        {
+            "tipo": "CONTROL",
+            "control": "fact_resenas: user_key sin nulos",
+            "resultado": "OK",
+            "detalle": "Nulos: 0"
+        },
+        {
+            "tipo": "CONTROL",
+            "control": "fact_resenas: user_key no negativa",
+            "resultado": "OK",
+            "detalle": "Valores negativos: 0"
+        },
+        {
+            "tipo": "CONTROL",
+            "control": "fact_resenas: integridad referencial user_key",
+            "resultado": "OK",
+            "detalle": "Claves sin correspondencia: 0"
+        },
+        {
+            "tipo": "ADVERTENCIA",
+            "control": "fact_resenas: user_key desconocida",
+            "resultado": "ADVERTENCIA",
+            "detalle": "1 registros asociados a clave 0."
+        },
+        {
+            "tipo": "CONTROL",
+            "control": "fact_resenas: game_key sin nulos",
+            "resultado": "OK",
+            "detalle": "Nulos: 0"
+        },
+        {
+            "tipo": "CONTROL",
+            "control": "fact_resenas: game_key no negativa",
+            "resultado": "OK",
+            "detalle": "Valores negativos: 0"
+        },
+        {
+            "tipo": "CONTROL",
+            "control": "fact_resenas: integridad referencial game_key",
+            "resultado": "OK",
+            "detalle": "Claves sin correspondencia: 0"
+        },
+        {
+            "tipo": "CONTROL",
+            "control": "fact_resenas: date_key sin nulos",
+            "resultado": "OK",
+            "detalle": "Nulos: 0"
+        },
+        {
+            "tipo": "CONTROL",
+            "control": "fact_resenas: date_key no negativa",
+            "resultado": "OK",
+            "detalle": "Valores negativos: 0"
+        },
+        {
+            "tipo": "CONTROL",
+            "control": "fact_resenas: integridad referencial date_key",
+            "resultado": "OK",
+            "detalle": "Claves sin correspondencia: 0"
+        },
+        {
+            "tipo": "CONTROL",
+            "control": "fact_resenas: language_key sin nulos",
+            "resultado": "OK",
+            "detalle": "Nulos: 0"
+        },
+        {
+            "tipo": "CONTROL",
+            "control": "fact_resenas: language_key no negativa",
+            "resultado": "OK",
+            "detalle": "Valores negativos: 0"
+        },
+        {
+            "tipo": "CONTROL",
+            "control": "fact_resenas: integridad referencial language_key",
+            "resultado": "OK",
+            "detalle": "Claves sin correspondencia: 0"
+        },
+        {
+            "tipo": "CONTROL",
+            "control": "fact_resenas: hardware_key sin nulos",
+            "resultado": "OK",
+            "detalle": "Nulos: 0"
+        },
+        {
+            "tipo": "CONTROL",
+            "control": "fact_resenas: hardware_key no negativa",
+            "resultado": "OK",
+            "detalle": "Valores negativos: 0"
+        },
+        {
+            "tipo": "CONTROL",
+            "control": "fact_resenas: integridad referencial hardware_key",
+            "resultado": "OK",
+            "detalle": "Claves sin correspondencia: 0"
+        },
+        {
+            "tipo": "ADVERTENCIA",
+            "control": "fact_resenas: hardware_key desconocida",
+            "resultado": "ADVERTENCIA",
+            "detalle": "43,657 registros asociados a clave 0."
+        },
+        {
+            "tipo": "CONTROL",
+            "control": "fact_novedades: identificador presente",
+            "resultado": "OK",
+            "detalle": "gid"
+        },
+        {
+            "tipo": "CONTROL",
+            "control": "fact_novedades: identificador sin nulos",
+            "resultado": "OK",
+            "detalle": "Nulos: 0"
+        },
+        {
+            "tipo": "CONTROL",
+            "control": "fact_novedades: identificador único",
+            "resultado": "OK",
+            "detalle": "Duplicados: 0"
+        },
+        {
+            "tipo": "CONTROL",
+            "control": "fact_novedades: game_key sin nulos",
+            "resultado": "OK",
+            "detalle": "Nulos: 0"
+        },
+        {
+            "tipo": "CONTROL",
+            "control": "fact_novedades: game_key no negativa",
+            "resultado": "OK",
+            "detalle": "Valores negativos: 0"
+        },
+        {
+            "tipo": "CONTROL",
+            "control": "fact_novedades: integridad referencial game_key",
+            "resultado": "OK",
+            "detalle": "Claves sin correspondencia: 0"
+        },
+        {
+            "tipo": "ADVERTENCIA",
+            "control": "fact_novedades: game_key desconocida",
+            "resultado": "ADVERTENCIA",
+            "detalle": "6 registros asociados a clave 0."
+        },
+        {
+            "tipo": "CONTROL",
+            "control": "fact_novedades: date_key sin nulos",
+            "resultado": "OK",
+            "detalle": "Nulos: 0"
+        },
+        {
+            "tipo": "CONTROL",
+            "control": "fact_novedades: date_key no negativa",
+            "resultado": "OK",
+            "detalle": "Valores negativos: 0"
+        },
+        {
+            "tipo": "CONTROL",
+            "control": "fact_novedades: integridad referencial date_key",
+            "resultado": "OK",
+            "detalle": "Claves sin correspondencia: 0"
+        },
+        {
+            "tipo": "CONTROL",
+            "control": "Agregación: estructura",
+            "resultado": "OK",
+            "detalle": "Columnas faltantes: []"
+        },
+        {
+            "tipo": "CONTROL",
+            "control": "Agregación: combinaciones únicas",
+            "resultado": "OK",
+            "detalle": "No debe haber más de una fila por juego y mes."
+        },
+        {
+            "tipo": "CONTROL",
+            "control": "Agregación: valores sin nulos",
+            "resultado": "OK",
+            "detalle": "Las columnas de control no deben contener nulos."
+        },
+        {
+            "tipo": "CONTROL",
+            "control": "Agregación: total de reseñas",
+            "resultado": "OK",
+            "detalle": "Agregadas: 46,990 | Fact: 46,990"
+        },
+        {
+            "tipo": "CONTROL",
+            "control": "Agregación: total de novedades",
+            "resultado": "OK",
+            "detalle": "Agregadas: 5,039 | Fact: 5,039"
+        },
+        {
+            "tipo": "CONTROL",
+            "control": "Agregación: consistencia con tablas de hechos",
+            "resultado": "OK",
+            "detalle": "Combinaciones con diferencias: 0"
+        },
+        {
+            "tipo": "CONTROL",
+            "control": "fact_resenas: identificadores conservados desde Silver",
+            "resultado": "OK",
+            "detalle": "Silver: 46,990 | Gold: 46,990 | Faltantes: 0 | Adicionales: 0"
+        },
+        {
+            "tipo": "CONTROL",
+            "control": "fact_novedades: identificadores conservados desde Silver",
+            "resultado": "OK",
+            "detalle": "Silver: 5,039 | Gold: 5,039 | Faltantes: 0 | Adicionales: 0"
+        }
+    ]
+}

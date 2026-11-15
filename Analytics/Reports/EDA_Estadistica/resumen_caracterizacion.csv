@@ -1,0 +1,18 @@
+﻿indicador,valor
+Total de reseñas,46990
+Usuarios distintos asociados,38999
+Juegos con reseñas,497
+Reseñas sin usuario asociado,1
+Reseñas sin juego asociado,0
+Fechas válidas,46990
+Fechas inválidas,0
+Textos vacíos,152
+Textos no vacíos,46838
+Textos repetidos exactos normalizados,4065
+Longitud media de reseña,342.96650155856355
+Longitud mediana de reseña,87.0
+Juegos con exactamente 100 reseñas,427
+Juegos con menos de 100 reseñas,64
+Juegos con más de 100 reseñas,6
+Fecha inicial,2010-10-16T05:31:47+00:00
+Fecha final,2026-11-13T17:01:04+00:00

@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Entornos virtuales
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Secretos y credenciales
+.env
+.env.*
+!.env.example
+credentials.json
+service-account.json
+token.json
+*.pem
+*.key
+
+# Checkpoints de extracción
+Medallion/1.Bronze/Data/Checkpoints/
+
+
+# Archivos temporales de ejecución
+*.log
+# Archivos vacíos o de prueba
+Medallion/1.Bronze/Scripts/holamundo.py

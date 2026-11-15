@@ -1,0 +1,5 @@
+﻿tipo_resultado,cantidad,porcentaje
+Verdadero positivo,734,78.34
+Falso negativo,88,9.39
+Verdadero negativo,80,8.54
+Falso positivo,35,3.74

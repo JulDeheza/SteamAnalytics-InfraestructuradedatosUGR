@@ -1,0 +1,46 @@
+﻿variable_1,variable_2,observaciones,rho_spearman,p_valor,p_ajustado,asociacion
+tiempo_juego_al_revisar,tiempo_juego_total,38946,0.9326208590206325,0.0,0.0,Fuerte
+votos_positivos,puntuacion_ponderada,38999,0.6286335851588506,0.0,0.0,Fuerte
+cantidad_resenas_usuario,tiempo_juego_total,38999,-0.30941630978140666,0.0,0.0,Moderada
+votos_positivos,votos_divertidos,38999,0.3044195746647528,0.0,0.0,Moderada
+votos_positivos,longitud_resena,38999,0.29096131678314774,0.0,0.0,Débil
+recomendacion_positiva,tiempo_juego_total,38999,0.2836286214109269,0.0,0.0,Débil
+tiempo_juego_al_revisar,cantidad_resenas_usuario,38946,-0.2655213054824538,0.0,0.0,Débil
+recomendacion_positiva,tiempo_juego_al_revisar,38946,0.254059292184352,0.0,0.0,Débil
+tiempo_juego_total,tiempo_ultimas_dos_semanas,38999,0.24660736745127665,0.0,0.0,Débil
+tiempo_juego_al_revisar,tiempo_ultimas_dos_semanas,38946,0.22855926415219338,0.0,0.0,Débil
+cantidad_resenas_usuario,tiempo_ultimas_dos_semanas,38999,-0.22304499744535988,0.0,0.0,Débil
+cantidad_resenas_usuario,longitud_resena,38999,0.21199172609626682,0.0,0.0,Débil
+recomendacion_positiva,votos_divertidos,38999,-0.20660119591071122,0.0,0.0,Débil
+puntuacion_ponderada,longitud_resena,38999,0.20339314330621378,0.0,0.0,Débil
+votos_positivos,cantidad_comentarios,38999,0.20070390392590828,0.0,0.0,Débil
+tiempo_ultimas_dos_semanas,votos_positivos,38999,-0.18362914581517958,7.512353998692832e-293,3.3805592994117744e-291,Débil
+cantidad_resenas_usuario,votos_positivos,38999,0.17345469462315324,4.787278282287467e-261,2.15427522702936e-259,Débil
+recomendacion_positiva,longitud_resena,38999,-0.17082895620733607,3.7638407361580323e-253,1.6937283312711145e-251,Débil
+recomendacion_positiva,puntuacion_ponderada,38999,0.16248881430913958,6.469890378492513e-229,2.9114506703216306e-227,Débil
+votos_divertidos,cantidad_comentarios,38999,0.144329302007612,1.5310707848141228e-180,6.889818531663553e-179,Débil
+tiempo_ultimas_dos_semanas,longitud_resena,38999,-0.1372605612400438,2.5320790829938873e-163,1.1394355873472493e-161,Débil
+recomendacion_positiva,votos_positivos,38999,-0.1215280225067041,3.3305268419447285e-128,1.498737078875128e-126,Débil
+cantidad_comentarios,longitud_resena,38999,0.11113370928842126,2.097004537431432e-107,9.436520418441443e-106,Débil
+tiempo_juego_total,votos_divertidos,38999,-0.11080241136460629,8.980208043372315e-107,4.041093619517542e-105,Débil
+recomendacion_positiva,tiempo_ultimas_dos_semanas,38999,0.10872980555550639,7.268745260940681e-103,3.2709353674233065e-101,Débil
+tiempo_juego_al_revisar,votos_divertidos,38946,-0.10866652746915391,1.3079712726329508e-102,5.885870726848279e-101,Débil
+recomendacion_positiva,cantidad_resenas_usuario,38999,-0.10614662576865433,4.237305977622036e-98,1.906787689929916e-96,Débil
+votos_divertidos,longitud_resena,38999,0.09614302540556474,9.630918805666458e-81,4.3339134625499057e-79,Muy débil
+tiempo_ultimas_dos_semanas,votos_divertidos,38999,-0.09438783166397834,7.070500726711175e-78,3.181725327020029e-76,Muy débil
+cantidad_comentarios,puntuacion_ponderada,38999,0.08812315846648844,4.392119822681328e-68,1.9764539202065978e-66,Muy débil
+cantidad_resenas_usuario,votos_divertidos,38999,0.08805131388319967,5.636979084083267e-68,2.5366405878374703e-66,Muy débil
+recomendacion_positiva,cantidad_comentarios,38999,-0.08623691690022121,2.8732305918705067e-65,1.292953766341728e-63,Muy débil
+tiempo_juego_al_revisar,votos_positivos,38946,-0.07414347178478235,1.3134627422282435e-48,5.910582340027096e-47,Muy débil
+tiempo_juego_total,votos_positivos,38999,-0.07402139596069227,1.6195838035865463e-48,7.288127116139458e-47,Muy débil
+cantidad_resenas_usuario,cantidad_comentarios,38999,0.062063308820075345,1.3487115879709225e-34,6.069202145869151e-33,Muy débil
+cantidad_resenas_usuario,puntuacion_ponderada,38999,0.05876139599580534,3.5001820234150036e-31,1.5750819105367517e-29,Muy débil
+tiempo_juego_total,longitud_resena,38999,-0.057110957921614115,1.5176624439056735e-29,6.82948099757553e-28,Muy débil
+tiempo_juego_total,puntuacion_ponderada,38999,0.05709888790057751,1.559470542729014e-29,7.017617442280563e-28,Muy débil
+votos_divertidos,puntuacion_ponderada,38999,0.055044657509857355,1.4641232177944628e-27,6.588554480075083e-26,Muy débil
+tiempo_juego_al_revisar,puntuacion_ponderada,38946,0.052750261801058844,2.0729193224153027e-25,9.328136950868863e-24,Muy débil
+tiempo_juego_al_revisar,cantidad_comentarios,38946,-0.051628778709093964,2.081482325255407e-24,9.366670463649332e-23,Muy débil
+tiempo_juego_total,cantidad_comentarios,38999,-0.05052049489190838,1.8104883558235555e-23,8.1471976012059995e-22,Muy débil
+tiempo_ultimas_dos_semanas,puntuacion_ponderada,38999,-0.04944429406140368,1.514474498008311e-22,6.8151352410374e-21,Muy débil
+tiempo_ultimas_dos_semanas,cantidad_comentarios,38999,-0.04671075343076457,2.725123644322763e-20,1.2263056399452433e-18,Muy débil
+tiempo_juego_al_revisar,longitud_resena,38946,-0.03059289635127226,1.5541047796648831e-09,6.993471508491973e-08,Muy débil

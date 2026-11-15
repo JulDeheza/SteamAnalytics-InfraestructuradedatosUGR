@@ -1,0 +1,12 @@
+﻿parametro,valor
+ngram_range,"(1, 2)"
+min_df,2
+max_df,0.95
+max_features,30000
+sublinear_tf,True
+norm,l2
+strip_accents,unicode
+lowercase,False
+stop_words,
+dtype,<class 'numpy.float32'>
+token_pattern,(?u)\b[a-zA-Z][a-zA-Z']+\b

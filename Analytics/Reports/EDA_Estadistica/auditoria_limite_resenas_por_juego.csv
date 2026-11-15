@@ -1,0 +1,498 @@
+﻿appid,registros_silver,ids_unicos_silver,registros_gold,ids_unicos_gold,diferencia_registros,game_key,name
+10,100,100,100,100,0,1,Counter-Strike
+20,100,100,100,100,0,2,Team Fortress Classic
+30,199,199,199,199,0,3,Day of Defeat
+40,199,199,199,199,0,4,Deathmatch Classic
+50,100,100,100,100,0,5,Half-Life: Opposing Force
+60,199,199,199,199,0,6,Ricochet
+70,100,100,100,100,0,7,Half-Life
+80,100,100,100,100,0,8,Counter-Strike: Condition Zero
+130,100,100,100,100,0,9,Half-Life: Blue Shift
+220,100,100,100,100,0,10,Half-Life 2
+240,100,100,100,100,0,11,Counter-Strike: Source
+300,100,100,100,100,0,12,Day of Defeat: Source
+320,100,100,100,100,0,13,Half-Life 2: Deathmatch
+360,100,100,100,100,0,14,Half-Life Deathmatch: Source
+400,100,100,100,100,0,15,Portal
+440,100,100,100,100,0,16,Team Fortress 2
+500,100,100,100,100,0,17,Left 4 Dead
+550,100,100,100,100,0,18,Left 4 Dead 2
+570,100,100,100,100,0,19,Dota 2
+620,100,100,100,100,0,20,Portal 2
+630,100,100,100,100,0,21,Alien Swarm
+730,100,100,100,100,0,22,Counter-Strike 2
+1002,100,100,100,100,0,23,Rag Doll Kung Fu
+1200,100,100,100,100,0,24,Red Orchestra: Ostfront 41-45
+1250,100,100,100,100,0,25,Killing Floor
+1300,100,100,100,100,0,26,SiN Episodes: Emergence
+1313,100,100,100,100,0,27,SiN Gold (1998)
+1500,100,100,100,100,0,28,Darwinia
+1510,100,100,100,100,0,29,Uplink
+1520,100,100,100,100,0,30,DEFCON
+1530,100,100,100,100,0,31,Multiwinia
+1600,100,100,100,100,0,32,Dangerous Waters
+1610,100,100,100,100,0,33,Space Empires IV Deluxe
+1630,100,100,100,100,0,35,Disciples II: Rise of the Elves
+1640,100,100,100,100,0,36,Disciples II: Gallean's Return
+1670,100,100,100,100,0,37,Iron Warriors: T-72 Tank Command
+1690,100,100,100,100,0,38,Space Empires V
+1700,100,100,100,100,0,39,Arx Fatalis
+1900,100,100,100,100,0,40,Earth 2160
+1930,100,100,100,100,0,41,Two Worlds Epic Edition
+2100,100,100,100,100,0,42,Dark Messiah of Might & Magic
+2200,100,100,100,100,0,43,Quake III Arena
+2210,100,100,100,100,0,44,Quake 4
+2270,100,100,100,100,0,45,Wolfenstein 3D
+2280,100,100,100,100,0,46,DOOM + DOOM II
+2310,100,100,100,100,0,47,Quake
+2320,100,100,100,100,0,48,Quake II
+2400,100,100,100,100,0,49,The Ship: Murder Party
+2420,100,100,100,100,0,50,The Ship: Single Player
+2450,100,100,100,100,0,51,Bloody Good Time
+2500,100,100,100,100,0,52,Shadowgrounds
+2520,100,100,100,100,0,53,Gumboy - Crazy Adventures™
+2540,100,100,100,100,0,54,RIP - Trilogy™
+2590,100,100,100,100,0,55,Alpha Prime
+2600,100,100,100,100,0,56,Vampire: The Masquerade - Bloodlines
+2610,100,100,100,100,0,57,GUN™
+2620,100,100,100,100,0,58,Call of Duty® (2003)
+2630,100,100,100,100,0,59,Call of Duty® 2
+2640,100,100,100,100,0,60,Call of Duty: United Offensive
+2700,100,100,100,100,0,61,RollerCoaster Tycoon® 3: Platinum
+2710,100,100,100,100,0,62,Act of War: Direct Action
+2720,49,49,49,49,0,63,ThreadSpace: Hyperbol
+2800,100,100,100,100,0,64,X2: The Threat
+2810,100,100,100,100,0,65,X3: Reunion
+2820,100,100,100,100,0,66,X3: Terran Conflict
+2840,100,100,100,100,0,67,X: Beyond the Frontier
+2850,100,100,100,100,0,68,X: Tension
+2870,100,100,100,100,0,69,X Rebirth
+2900,100,100,100,100,0,70,688(I) Hunter/Killer
+2910,100,100,100,100,0,71,Fleet Command
+2920,100,100,100,100,0,72,Sub Command
+2990,100,100,100,100,0,73,FlatOut 2
+3010,100,100,100,100,0,74,Xpand Rally
+3020,100,100,100,100,0,75,Call of Juarez
+3050,100,100,100,100,0,76,Xpand Rally Xtreme
+3130,100,100,100,100,0,77,Men of War: Red Tide
+3170,100,100,100,100,0,78,King's Bounty: Armored Princess
+3230,100,100,100,100,0,79,Genesis Rising
+3260,100,100,100,100,0,80,Safecracker: The Ultimate Puzzle Adventure
+3270,100,100,100,100,0,81,Painkiller Overdose
+3300,100,100,100,100,0,82,Bejeweled 2 Deluxe
+3310,100,100,100,100,0,83,Chuzzle Deluxe
+3320,100,100,100,100,0,84,Insaniquarium Deluxe
+3330,100,100,100,100,0,85,Zuma Deluxe
+3340,100,100,100,100,0,86,AstroPop Deluxe
+3350,100,100,100,100,0,87,Bejeweled Deluxe
+3360,100,100,100,100,0,88,Big Money! Deluxe
+3380,100,100,100,100,0,89,Dynomite Deluxe
+3390,100,100,100,100,0,90,Feeding Frenzy 2 Deluxe
+3400,66,66,66,66,0,91,Hammer Heads Deluxe
+3410,100,100,100,100,0,92,Heavy Weapon Deluxe
+3420,100,100,100,100,0,93,Iggle Pop Deluxe
+3430,100,100,100,100,0,94,Pizza Frenzy Deluxe
+3450,100,100,100,100,0,95,Typer Shark! Deluxe
+3460,100,100,100,100,0,96,Talismania Deluxe
+3480,100,100,100,100,0,97,Peggle Deluxe
+3483,100,100,100,100,0,98,Peggle Extreme
+3490,22,22,22,22,0,99,Venice Deluxe
+3500,91,91,91,91,0,100,Mystery P.I.™ - The Lottery Ticket
+3510,96,96,96,96,0,101,Amazing Adventures The Lost Tomb™
+3520,86,86,86,86,0,102,Mystery P.I.™ - The Vegas Heist
+3530,100,100,100,100,0,103,Amazing Adventures Around the World
+3540,100,100,100,100,0,104,Peggle™ Nights
+3560,100,100,100,100,0,105,Bejeweled Twist
+3570,63,63,63,63,0,106,Mystery P.I.™ - The New York Fortune
+3580,67,67,67,67,0,107,The Wizard's Pen™
+3590,100,100,100,100,0,108,Plants vs. Zombies GOTY Edition
+3600,100,100,100,100,0,109,Escape Rosecliff Island
+3610,70,70,70,70,0,110,Mystery P.I. - Lost in Los Angeles
+3620,100,100,100,100,0,111,Zuma's Revenge!
+3700,100,100,100,100,0,112,Sniper Elite
+3710,100,100,100,100,0,113,Judge Dredd: Dredd vs. Death
+3720,100,100,100,100,0,114,Evil Genius
+3730,100,100,100,100,0,115,Aliens versus Predator Classic 2000
+3800,100,100,100,100,0,116,Advent Rising
+3810,100,100,100,100,0,117,BloodRayne (Legacy)
+3820,100,100,100,100,0,118,BloodRayne 2 (Legacy)
+3830,100,100,100,100,0,119,Psychonauts
+3900,100,100,100,100,0,120,Sid Meier's Civilization® IV
+3910,100,100,100,100,0,121,Sid Meier's Civilization® III Complete
+3920,100,100,100,100,0,122,Sid Meier's Pirates!
+3960,100,100,100,100,0,123,Shattered Union
+3980,100,100,100,100,0,124,CivCity: Rome
+3990,100,100,100,100,0,125,Civilization IV®: Warlords
+4000,100,100,100,100,0,126,Garry's Mod
+4100,20,20,20,20,0,127,Poker Superstars II
+4230,100,100,100,100,0,128,RACE - The WTCC Game
+4290,14,14,14,14,0,129,RACE: Caterham Expansion
+4300,95,95,95,95,0,130,RoboBlitz
+4420,100,100,100,100,0,131,Silverfall
+4460,100,100,100,100,0,132,City Life 2008
+4470,100,100,100,100,0,133,Silverfall: Earth Awakening
+4520,100,100,100,100,0,134,Full Spectrum Warrior
+4530,100,100,100,100,0,135,Full Spectrum Warrior: Ten Hammers
+4560,100,100,100,100,0,136,Company of Heroes - Legacy Edition
+4570,100,100,100,100,0,137,"Warhammer 40,000: Dawn of War - Anniversary Edition (Classic)"
+4700,100,100,100,100,0,138,Total War: MEDIEVAL II – Definitive Edition
+4770,100,100,100,100,0,139,Rome: Total War™ - Alexander
+4800,100,100,100,100,0,140,Heroes of Annihilated Empires
+4850,100,100,100,100,0,141,Cossacks: Back to War
+4870,100,100,100,100,0,142,Cossacks: Art of War
+4880,100,100,100,100,0,143,Cossacks: European Wars
+4890,100,100,100,100,0,144,Cossacks II: Battle for Europe
+4900,100,100,100,100,0,145,Zen of Sudoku
+4920,100,100,100,100,0,146,Natural Selection 2
+6000,100,100,100,100,0,147,STAR WARS™ Republic Commando™
+6010,100,100,100,100,0,148,Indiana Jones® and the Fate of Atlantis™
+6020,100,100,100,100,0,149,STAR WARS™ Jedi Knight - Jedi Academy™
+6030,100,100,100,100,0,150,STAR WARS™ Jedi Knight II - Jedi Outcast™
+6040,100,100,100,100,0,151,The Dig®
+6060,100,100,100,100,0,152,"STAR WARS™ Battlefront II (Classic, 2005)"
+6080,100,100,100,100,0,153,Thrillville®: Off the Rails™
+6100,100,100,100,100,0,154,Eets
+6120,100,100,100,100,0,155,Shank
+6200,100,100,100,100,0,156,Ghost Master®
+6210,100,100,100,100,0,157,Vegas: Make It Big™
+6220,100,100,100,100,0,158,FlatOut
+6250,100,100,100,100,0,159,Making History: The Calm & the Storm
+6270,100,100,100,100,0,160,Ducati World Championship
+6300,100,100,100,100,0,161,Dreamfall: The Longest Journey
+6310,100,100,100,100,0,162,The Longest Journey
+6370,199,199,199,199,0,163,Bloodline Champions
+6400,100,100,100,100,0,164,Joint Task Force
+6420,100,100,100,100,0,165,Nexus - The Jupiter Incident
+6510,100,100,100,100,0,166,Lost Planet™: Extreme Condition
+6600,88,88,88,88,0,167,Bullet Candy
+6800,100,100,100,100,0,168,Commandos: Behind Enemy Lines
+6810,100,100,100,100,0,169,Commandos: Beyond the Call of Duty
+6830,100,100,100,100,0,170,Commandos 2: Men of Courage
+6840,100,100,100,100,0,171,Commandos 3: Destination Berlin
+6850,100,100,100,100,0,172,Hitman 2: Silent Assassin
+6860,100,100,100,100,0,173,Hitman: Blood Money
+6870,100,100,100,100,0,174,Battlestations: Midway
+6880,100,100,100,100,0,175,Just Cause
+6900,100,100,100,100,0,176,Hitman: Codename 47
+6910,100,100,100,100,0,177,Deus Ex: Game of the Year Edition
+6920,100,100,100,100,0,178,Deus Ex: Invisible War
+6980,100,100,100,100,0,179,Thief: Deadly Shadows
+7000,100,100,100,100,0,180,Tomb Raider: Legend
+7010,100,100,100,100,0,181,Project: Snowblind
+7020,100,100,100,100,0,182,Rogue Trooper
+7110,100,100,100,100,0,183,Jade Empire™: Special Edition
+7200,100,100,100,100,0,184,Trackmania United Forever
+7210,100,100,100,100,0,185,"Runaway, A Road Adventure"
+7220,100,100,100,100,0,186,"Runaway, The Dream of The Turtle"
+7260,100,100,100,100,0,187,Loki
+7340,53,53,53,53,0,188,Azada
+7510,100,100,100,100,0,189,X-Blades
+7520,100,100,100,100,0,190,Two Worlds II HD
+7530,100,100,100,100,0,191,Two Worlds II Castle Defense
+7600,100,100,100,100,0,192,Sid Meier's Railroads!
+7610,100,100,100,100,0,193,Railroad Tycoon 3
+7620,100,100,100,100,0,194,Railroad Tycoon II Platinum
+7650,100,100,100,100,0,195,X-COM: Terror From the Deep
+7660,100,100,100,100,0,196,X-COM: Apocalypse
+7670,100,100,100,100,0,197,BioShock™
+7730,100,100,100,100,0,198,X-COM: Interceptor
+7760,100,100,100,100,0,199,X-COM: UFO Defense
+7770,100,100,100,100,0,200,X-COM: Enforcer
+7800,100,100,100,100,0,201,Stubbs the Zombie in Rebel Without a Pulse
+7840,100,100,100,100,0,202,Death Track®: Resurrection
+7860,100,100,100,100,0,203,NecroVision
+7940,100,100,100,100,0,204,Call of Duty® 4: Modern Warfare® (2007)
+8000,100,100,100,100,0,205,Tomb Raider: Anniversary
+8040,86,86,86,86,0,206,Championship Manager 2007
+8060,100,100,100,100,0,207,Championship Manager 2008
+8080,100,100,100,100,0,208,Kane and Lynch: Dead Men™
+8100,100,100,100,100,0,209,Conflict: Denied Ops
+8140,100,100,100,100,0,210,Tomb Raider: Underworld
+8170,100,100,100,100,0,211,Battlestations Pacific
+8190,100,100,100,100,0,212,Just Cause 2
+8330,100,100,100,100,0,213,Telltale Texas Hold ‘Em
+8400,100,100,100,100,0,214,Geometry Wars: Retro Evolved
+8500,100,100,100,100,0,215,EVE Online
+8600,100,100,100,100,0,216,RACE 07
+8790,100,100,100,100,0,218,GTR 2 FIA GT Racing Game
+8800,100,100,100,100,0,219,Civilization IV: Beyond the Sword
+8850,100,100,100,100,0,220,BioShock® 2
+8870,100,100,100,100,0,221,BioShock Infinite
+8880,100,100,100,100,0,222,Freedom Force
+8890,100,100,100,100,0,223,Freedom Force vs. the Third Reich
+8930,100,100,100,100,0,224,Sid Meier's Civilization® V
+8970,100,100,100,100,0,225,Axel & Pixel
+9010,100,100,100,100,0,226,Return to Castle Wolfenstein
+9060,100,100,100,100,0,227,HeXen II
+9180,100,100,100,100,0,228,Commander Keen
+9200,100,100,100,100,0,229,RAGE
+9340,100,100,100,100,0,230,Company of Heroes: Opposing Fronts
+9350,100,100,100,100,0,231,Supreme Commander
+9420,100,100,100,100,0,232,Supreme Commander: Forged Alliance
+9460,100,100,100,100,0,233,Frontlines™: Fuel of War™
+9480,100,100,100,100,0,234,Saints Row 2
+9500,100,100,100,100,0,235,Gish
+9710,100,100,100,100,0,236,Desperados 2: Cooper's Revenge
+9730,100,100,100,100,0,237,Tycoon City: New York
+9760,100,100,100,100,0,238,Act of War: High Treason
+9800,100,100,100,100,0,239,Death to Spies
+9850,100,100,100,100,0,240,Codename: Panzers - Cold War
+9880,100,100,100,100,0,241,Champions Online
+9900,100,100,100,100,0,242,Star Trek Online
+9940,100,100,100,100,0,243,Blade Kitten
+9960,36,36,36,36,0,244,Haunted House™ (2010)
+9970,38,38,38,38,0,245,Star Raiders
+9980,91,91,91,91,0,246,The UnderGarden
+10090,100,100,100,100,0,247,Call of Duty: World at War
+10100,100,100,100,100,0,248,King's Quest™ Collection
+10110,100,100,100,100,0,249,Space Quest™ Collection
+10120,55,55,55,55,0,250,Aces of the Galaxy™
+10130,100,100,100,100,0,251,TimeShift™
+10140,100,100,100,100,0,252,3D Ultra™ Minigolf Adventures
+10150,100,100,100,100,0,253,Prototype™
+10180,100,100,100,100,0,254,Call of Duty®: Modern Warfare® 2 (2009)
+10220,100,100,100,100,0,255,Postal III
+10230,100,100,100,100,0,256,Dead Mountaineer's Hotel
+10240,37,37,37,37,0,257,A Stroke of Fate: Operation Valkyrie
+10250,43,43,43,43,0,258,PT Boats: Knights of the Sea
+10260,29,29,29,29,0,259,PT Boats: South Gambit
+10270,100,100,100,100,0,260,Disciples III: Reincarnation
+10460,100,100,100,100,0,261,The Club™
+10500,100,100,100,100,0,262,Total War: EMPIRE – Definitive Edition
+10520,6,6,6,6,0,263,Beijing 2008™ - The Official Video Game of the Olympic Games
+10680,100,100,100,100,0,264,Aliens vs. Predator™
+11020,100,100,100,100,0,265,TrackMania Nations Forever
+11040,100,100,100,100,0,266,Sherlock Holmes - Nemesis
+11050,100,100,100,100,0,267,Dracula: Origin
+11130,100,100,100,100,0,268,Sherlock Holmes: The Mystery of the Mummy
+11140,100,100,100,100,0,269,Sherlock Holmes: The Awakened (2008)
+11150,100,100,100,100,0,270,Sherlock Holmes: The Silver Earring
+11180,100,100,100,100,0,271,Sherlock Holmes: The Mystery of the Persian Carpet
+11190,100,100,100,100,0,272,Sherlock Holmes versus Jack the Ripper
+11200,100,100,100,100,0,273,Shadowgrounds Survivor
+11230,100,100,100,100,0,274,Gumboy Tournament
+11240,100,100,100,100,0,275,Space Trader: Merchant Marine
+11250,75,75,75,75,0,276,Pacific Storm
+11260,100,100,100,100,0,277,Pacific Storm Allies
+11280,100,100,100,100,0,278,Penguins Arena: Sedna's World
+11340,100,100,100,100,0,279,Larva Mortus
+11370,100,100,100,100,0,280,Nikopol: Secrets of the Immortals
+11390,100,100,100,100,0,281,Crash Time 2
+11450,100,100,100,100,0,282,Overlord™
+11550,100,100,100,100,0,283,Second Sight
+11610,100,100,100,100,0,284,Dragon Nest
+12130,100,100,100,100,0,285,Manhunt
+12140,100,100,100,100,0,286,Max Payne
+12150,100,100,100,100,0,287,Max Payne 2: The Fall of Max Payne
+12200,100,100,100,100,0,288,Bully: Scholarship Edition
+12210,100,100,100,100,0,289,Grand Theft Auto IV: The Complete Edition
+12220,100,100,100,100,0,290,Grand Theft Auto: Episodes from Liberty City
+12310,100,100,100,100,0,291,Culpa Innata
+12320,100,100,100,100,0,292,Sacred Gold
+12330,100,100,100,100,0,293,Darkstar One
+12360,100,100,100,100,0,294,FlatOut: Ultimate Carnage Collector's Edition
+12364,41,41,41,41,0,295,Big Mutha Truckers
+12390,100,100,100,100,0,296,Exodus from the Earth
+12420,75,75,75,75,0,297,Perimeter 2: New Earth
+12430,100,100,100,100,0,298,SlamIt Pinball Big Score
+12440,68,68,68,68,0,299,Ankh 2: Heart of Osiris
+12450,42,42,42,42,0,300,Ankh 3: Battle of the Gods
+12460,100,100,100,100,0,301,BC Kings
+12470,100,100,100,100,0,302,Port Royale 2
+12480,100,100,100,100,0,303,9th Company: Roots Of Terror
+12500,100,100,100,100,0,304,PuzzleQuest: Challenge of the Warlords
+12510,100,100,100,100,0,305,Prison Tycoon 3™: Lockdown
+12520,100,100,100,100,0,306,18 Wheels of Steel: American Long Haul
+12530,86,86,86,86,0,307,Hunting Unlimited™ 2008
+12540,36,36,36,36,0,308,Mahjongg Investigations: Under Suspicion
+12560,50,50,50,50,0,309,Ride! Carnival Tycoon
+12570,34,34,34,34,0,310,Hot Dish
+12580,26,26,26,26,0,311,Dr. Daisy Pet Vet
+12590,70,70,70,70,0,312,Sprint Cars Road to Knoxville
+12600,56,56,56,56,0,313,Midnight Outlaw: 6 Hours to SunUp
+12640,100,100,100,100,0,314,Drakensang
+12650,5,5,5,5,0,315,Fetch It Again
+12660,10,10,10,10,0,316,Miss Popularity
+12670,20,20,20,20,0,317,Mission Runway
+12690,100,100,100,100,0,318,Hunting Unlimited 2010
+12710,100,100,100,100,0,319,Overlord™: Raising Hell
+12810,100,100,100,100,0,320,Overlord II
+12900,100,100,100,100,0,321,AudioSurf
+13000,59,59,59,59,0,322,Ninja Reflex: Steamworks Edition
+13500,100,100,100,100,0,323,Prince of Persia: Warrior Within™
+13520,100,100,100,100,0,324,Far Cry®
+13530,100,100,100,100,0,325,Prince of Persia: The Two Thrones™
+13540,100,100,100,100,0,326,Tom Clancy's Rainbow Six® Vegas
+13560,100,100,100,100,0,327,Tom Clancy's Splinter Cell®
+13570,100,100,100,100,0,328,Tom Clancy's Splinter Cell Chaos Theory®
+13580,100,100,100,100,0,329,Tom Clancy's Splinter Cell Double Agent®
+13600,100,100,100,100,0,330,Prince of Persia®: The Sands of Time
+13620,100,100,100,100,0,331,Tom Clancy's Ghost Recon® Desert Siege™
+13630,100,100,100,100,0,332,Tom Clancy's Ghost Recon® Island Thunder™
+15000,100,100,100,100,0,333,Tom Clancy's Rainbow Six Lockdown™
+15080,100,100,100,100,0,334,Rayman Raving Rabbids™
+15100,100,100,100,100,0,335,Assassin's Creed™: Director's Cut Edition
+15120,100,100,100,100,0,336,Tom Clancy's Rainbow Six® Vegas 2
+15160,100,100,100,100,0,337,Petz® Horsez® 2
+15170,100,100,100,100,0,338,Heroes of Might & Magic V
+15190,100,100,100,100,0,339,Brothers in Arms: Road to Hill 30™
+15200,100,100,100,100,0,340,Silent Hunter®: Wolves of the Pacific
+15210,100,100,100,100,0,341,Silent Hunter® III
+15240,100,100,100,100,0,342,Silent Hunter®: Wolves of the Pacific U-Boat Missions
+15300,100,100,100,100,0,343,Tom Clancy's Ghost Recon®
+15320,100,100,100,100,0,344,IL-2 Sturmovik: 1946
+15350,10,10,10,10,0,345,Brain Spa
+15370,100,100,100,100,0,346,Heroes of Might & Magic V: Tribes of the East
+15380,100,100,100,100,0,347,Heroes of Might & Magic V: Hammers of Fate
+15390,100,100,100,100,0,348,Brothers in Arms: Hell's Highway™
+15400,100,100,100,100,0,349,Harvest: Massive Encounter
+15500,100,100,100,100,0,350,The Wonderful End of the World
+15520,100,100,100,100,0,351,AaAaAA!!! - A Reckless Disregard for Gravity
+15560,100,100,100,100,0,352,AaaaaAAaaaAAAaaAAAAaAAAAA!!! for the Awesome
+15620,100,100,100,100,0,353,"Warhammer 40,000: Dawn of War II - Anniversary Edition (Classic)"
+15700,100,100,100,100,0,354,Oddworld: Abe's Oddysee®
+15710,100,100,100,100,0,355,Oddworld: Abe's Exoddus®
+15740,100,100,100,100,0,356,Oddworld: Munch's Oddysee
+15750,100,100,100,100,0,357,Oddworld: Stranger's Wrath HD
+15800,3,3,3,3,0,358,Planet Busters
+15900,100,100,100,100,0,359,7 Wonders II
+15910,52,52,52,52,0,360,Luxor Amun Rising
+15920,58,58,58,58,0,361,Luxor 2
+15930,100,100,100,100,0,362,Luxor 3
+15960,100,100,100,100,0,363,Little Farm
+15970,100,100,100,100,0,364,Luxor
+16000,70,70,70,70,0,365,Discovery! A Seek and Find Adventure
+16020,95,95,95,95,0,366,Samantha Swift and the Hidden Roses of Athena
+16030,100,100,100,100,0,367,7 Wonders: Treasures of Seven
+16040,100,100,100,100,0,368,Luxor: Quest for the Afterlife
+16060,100,100,100,100,0,369,Samantha Swift and the Golden Touch
+16100,100,100,100,100,0,370,Virtual Villagers: A New Home
+16110,88,88,88,88,0,371,Virtual Villagers: The Lost Children
+16120,100,100,100,100,0,372,Plant Tycoon
+16130,107,107,107,107,0,373,Fish Tycoon
+16180,100,100,100,100,0,374,Virtual Villagers - The Secret City
+16200,77,77,77,77,0,375,Virtual Families
+16300,100,100,100,100,0,376,Everyday Shooter
+16450,100,100,100,100,0,377,F.E.A.R. 2: Project Origin
+16500,14,14,14,14,0,378,Chaos Theory
+16600,100,100,100,100,0,379,Trials 2: Second Edition
+16620,55,55,55,55,0,380,Monster Trucks Nitro
+16710,100,100,100,100,0,381,Insecticide Part 1
+16720,100,100,100,100,0,382,Velvet Assassin
+16730,100,100,100,100,0,383,Legendary
+16810,100,100,100,100,0,384,Sid Meier's Civilization IV: Colonization
+16900,100,100,100,100,0,385,GROUND BRANCH
+17100,100,100,100,100,0,386,Children of the Nile: Enhanced Edition
+17120,100,100,100,100,0,387,Children of the Nile: Alexandria
+17140,100,100,100,100,0,388,Hinterland
+17180,39,39,39,39,0,389,Mosby's Confederacy
+17330,100,100,100,100,0,390,Crysis Warhead®
+17390,100,100,100,100,0,391,SPORE™
+17410,100,100,100,100,0,392,Mirror's Edge™
+17440,100,100,100,100,0,393,SPORE™ Creepy & Cute Parts Pack
+17460,100,100,100,100,0,394,Mass Effect (2007)
+17470,100,100,100,100,0,395,Dead Space (2008)
+17480,100,100,100,100,0,396,Command & Conquer™ Red Alert™ 3
+17500,100,100,100,100,0,397,Zombie Panic! Source
+17570,100,100,100,100,0,398,Pirates Vikings & Knights II
+17580,100,100,100,100,0,399,Dystopia
+17710,100,100,100,100,0,400,Nuclear Dawn
+17740,100,100,100,100,0,401,Empires Mod
+18000,100,100,100,100,0,402,"Precipice of Darkness, Episode One"
+18020,100,100,100,100,0,403,"Precipice of Darkness, Episode Two"
+18040,100,100,100,100,0,404,DeathSpank
+18050,100,100,100,100,0,405,DeathSpank: Thongs of Virtue
+18070,100,100,100,100,0,406,The Baconing
+18120,199,199,199,199,0,407,Unstoppable Gorg
+18300,100,100,100,100,0,408,Spectraball
+18400,100,100,100,100,0,409,Crazy Machines 2
+18420,100,100,100,100,0,410,Crazy Machines
+18430,3,3,3,3,0,411,Crazy Machines 1.5
+18470,100,100,100,100,0,412,Helldorado
+18480,100,100,100,100,0,413,Mata Hari
+18500,100,100,100,100,0,414,Defense Grid: The Awakening
+18600,28,28,28,28,0,415,Mayhem Intergalactic
+18700,100,100,100,100,0,416,And Yet It Moves
+18820,100,100,100,100,0,417,Zero Gear
+19000,100,100,100,100,0,418,Silent Hill Homecoming
+19020,56,56,56,56,0,419,Puzzle Chronicles
+19030,100,100,100,100,0,420,Rocket Knight
+19080,30,30,30,30,0,421,Biozone
+19200,100,100,100,100,0,422,Tank Universal
+19320,18,18,18,18,0,423,Space Ark
+19500,77,77,77,77,0,424,Eternity's Child
+19680,100,100,100,100,0,425,Alice: Madness Returns
+19800,100,100,100,100,0,426,Brothers in Arms: Earned in Blood™
+19810,66,66,66,66,0,427,The Sum of All Fears
+19830,100,100,100,100,0,428,Tom Clancy's Rainbow Six® 3 Gold
+19900,100,100,100,100,0,429,Far Cry® 2
+19980,100,100,100,100,0,430,Prince of Persia®
+20200,18,18,18,18,0,431,Galactic Bowling
+20500,100,100,100,100,0,432,Red Faction Guerrilla Steam Edition
+20530,100,100,100,100,0,433,Red Faction
+20540,100,100,100,100,0,434,Company of Heroes: Tales of Valor
+20550,100,100,100,100,0,435,Red Faction II
+20700,100,100,100,100,0,436,Starscape
+20710,98,98,98,98,0,437,Mr. Robot
+20820,100,100,100,100,0,438,Shatter
+20900,100,100,100,100,0,439,The Witcher: Enhanced Edition Director's Cut
+20920,100,100,100,100,0,440,The Witcher 2: Assassins of Kings Enhanced Edition
+21000,100,100,100,100,0,441,LEGO® Batman™: The Videogame
+21010,100,100,100,100,0,442,Watchmen: The End is Nigh
+21030,100,100,100,100,0,443,Watchmen: The End is Nigh Part 2
+21090,100,100,100,100,0,444,F.E.A.R.
+21100,100,100,100,100,0,445,F.E.A.R. 3
+21130,100,100,100,100,0,446,LEGO® Harry Potter: Years 1-4
+21300,32,32,32,32,0,447,Gravitron 2
+21500,9,9,9,9,0,448,Pyroblazer®
+21660,100,100,100,100,0,449,Street Fighter® IV
+21670,100,100,100,100,0,450,Bionic Commando
+21680,100,100,100,100,0,451,Bionic Commando: Rearmed
+21690,100,100,100,100,0,452,Resident Evil 5
+21780,100,100,100,100,0,453,Driver® Parallel Lines
+21800,100,100,100,100,0,454,Tom Clancy's EndWar™
+21970,100,100,100,100,0,455,R.U.S.E.™
+21980,100,100,100,100,0,456,Call of Juarez: Bound in Blood
+22000,100,100,100,100,0,457,World of Goo
+22100,100,100,100,100,0,458,Mount & Blade
+22120,100,100,100,100,0,459,Penumbra: Black Plague Gold Edition
+22130,100,100,100,100,0,460,Hearts of Iron 2 Complete
+22140,100,100,100,100,0,461,Penumbra: Requiem
+22180,100,100,100,100,0,462,Penumbra Overture
+22200,100,100,100,100,0,463,Zeno Clash
+22230,100,100,100,100,0,464,Rock of Ages
+22300,100,100,100,100,0,465,Fallout 3
+22310,100,100,100,100,0,466,Rogue Warrior
+22320,100,100,100,100,0,467,The Elder Scrolls III: Morrowind® Game of the Year Edition
+22330,100,100,100,100,0,468,The Elder Scrolls IV: Oblivion® Game of the Year Edition (2009)
+22340,100,100,100,100,0,469,Call of Cthulhu®: Dark Corners of the Earth
+22350,100,100,100,100,0,470,BRINK
+22370,100,100,100,100,0,471,Fallout 3: Game of the Year Edition
+22380,100,100,100,100,0,472,Fallout: New Vegas
+22450,100,100,100,100,0,473,Hunted: The Demon’s Forge™
+22490,100,100,100,100,0,474,Fallout: New Vegas
+22500,100,100,100,100,0,475,Spectromancer
+22600,100,100,100,100,0,476,Worms Reloaded
+22610,100,100,100,100,0,477,Alien Breed: Impact
+22650,100,100,100,100,0,478,Alien Breed 2: Assault
+22670,100,100,100,100,0,479,Alien Breed 3: Descent
+23150,30,30,30,30,0,480,Fluttabyes
+23300,100,100,100,100,0,481,Yosumin!™
+23380,100,100,100,100,0,482,Gyromancer
+23400,100,100,100,100,0,483,Imperium Romanum Gold Edition
+23420,100,100,100,100,0,484,Europa Universalis: Rome - Gold Edition
+23450,100,100,100,100,0,485,Grand Ages: Rome
+23460,100,100,100,100,0,487,Ceville
+23490,100,100,100,100,0,488,Tropico 3
+23500,100,100,100,100,0,489,Puzzle Quest: Galactrix
+23530,100,100,100,100,0,490,Earth Defense Force: Insect Armageddon
+23600,100,100,100,100,0,491,Depths of Peril
+23700,100,100,100,100,0,492,Puzzle Kingdoms
+24010,100,100,100,100,0,493,Train Simulator Classic
+24200,100,100,100,100,0,494,DC Universe™ Online
+24240,100,100,100,100,0,495,PAYDAY™ The Heist
+24400,100,100,100,100,0,496,King Arthur - The Role-playing Wargame
+24410,49,49,49,49,0,497,Crusaders: Thy Kingdom Come
+24420,100,100,100,100,0,498,Aquaria
+24460,59,59,59,59,0,499,King Arthur: Fallen Champions
+24480,100,100,100,100,0,500,King Arthur II: The Role-Playing Wargame

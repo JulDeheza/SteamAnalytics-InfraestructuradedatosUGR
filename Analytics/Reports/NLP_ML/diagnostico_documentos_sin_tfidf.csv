@@ -1,0 +1,199 @@
+﻿particion,indice,recommendationid,game_key,voted_up,longitud,cantidad_tokens,tokens_reconocidos,motivo,ejemplo_texto
+Entrenamiento,65,129783818,275,True,6,1,0,Todos los términos quedaron fuera del vocabulario,banana
+Entrenamiento,71,131037129,163,False,6,0,0,Sin tokens reconocidos por el tokenizador,7.9/10
+Entrenamiento,107,141355018,342,True,1,0,0,Sin tokens reconocidos por el tokenizador,e
+Entrenamiento,108,141384981,132,True,4,1,0,Todos los términos quedaron fuera del vocabulario,yyyy
+Entrenamiento,127,144929679,96,True,1,0,0,Sin tokens reconocidos por el tokenizador,1
+Entrenamiento,244,172520296,51,True,4,1,0,Todos los términos quedaron fuera del vocabulario,yyes
+Entrenamiento,247,174067682,376,True,11,1,0,Todos los términos quedaron fuera del vocabulario,masterpizza
+Entrenamiento,261,176212249,100,True,5,1,0,Todos los términos quedaron fuera del vocabulario,comfy
+Entrenamiento,276,177728322,278,True,334,0,0,Sin tokens reconocidos por el tokenizador,"老玩家诸葛亮戏评 此作《企鹅竞技场》将射击游戏与幽默元素巧妙结合,设定独特,以企鹅部落为背景展开激烈的雪仗。虽为轻松休闲之作,却充满趣味性与竞争感。正所谓:以笑对战,不亦乐乎。 优点: - 快节奏的游戏轮次,适合短时间内的娱乐。 - 多种武器与模式,增添了游戏的多样性与变化。 - 即使在角色死亡后,玩家仍可以幽灵形态继续参与互动,趣味无穷。 - 企鹅角色定制与成就系统,让玩家体验更多个性化内容。 "
+Entrenamiento,293,181082586,218,True,15,0,0,Sin tokens reconocidos por el tokenizador,👌👌👌👌👌😍😍😍😍😍👍👍👍👍👍
+Entrenamiento,294,181568512,109,True,23,0,0,Sin tokens reconocidos por el tokenizador,ب3الاف ديناز وشتبي اكثر
+Entrenamiento,296,181738874,163,False,1,0,0,Sin tokens reconocidos por el tokenizador,-
+Entrenamiento,313,183952734,94,True,2,0,0,Sin tokens reconocidos por el tokenizador,<3
+Entrenamiento,436,195100363,485,True,8,1,0,Todos los términos quedaron fuera del vocabulario,awesomne
+Entrenamiento,539,202190582,218,True,6,1,0,Todos los términos quedaron fuera del vocabulario,resing
+Entrenamiento,624,206591066,356,True,12,1,0,Todos los términos quedaron fuera del vocabulario,spoocetastic
+Entrenamiento,627,206813180,371,True,4,1,0,Todos los términos quedaron fuera del vocabulario,funm
+Entrenamiento,641,207482279,268,True,313,0,0,Sin tokens reconocidos por el tokenizador,"старая, но увлекательная детективная головоломка. геймплей сосредоточен на сборе улик и дедукции. сложные загадки и атмосфера викторианского лондона погружают с головой. голосовая озвучка и сюжет дост"
+Entrenamiento,661,208786611,193,True,4,1,0,Todos los términos quedaron fuera del vocabulario,jhhh
+Entrenamiento,694,211166861,156,True,3,0,0,Sin tokens reconocidos por el tokenizador,+++
+Entrenamiento,721,213241780,169,False,132,0,0,Sin tokens reconocidos por el tokenizador,"首先游戏是个好游戏,但2024了,几乎游戏没有任何改变,还是原来的强制全屏,切换出去还容易死机,容易直接结束程序。也不加个成就和分辨率优化啥的,就直接端上来挣钱。想起小时候网吧有一位大佬玩这个可以玩到第三关,后面十几个人围着他看,给他各种瞎出主意。都是情怀在里面。"
+Entrenamiento,730,213803263,473,True,1,0,0,Sin tokens reconocidos por el tokenizador,🍂
+Entrenamiento,845,217387009,87,True,5,1,0,Todos los términos quedaron fuera del vocabulario,tasty
+Entrenamiento,887,218651573,443,True,1,0,0,Sin tokens reconocidos por el tokenizador,☻
+Entrenamiento,962,220881251,402,True,6,1,0,Todos los términos quedaron fuera del vocabulario,t ycho
+Entrenamiento,1018,222018436,357,True,1,0,0,Sin tokens reconocidos por el tokenizador,👍
+Entrenamiento,1046,222590960,393,True,2,0,0,Sin tokens reconocidos por el tokenizador,:)
+Entrenamiento,1085,223535858,24,True,5,1,0,Todos los términos quedaron fuera del vocabulario,siggy
+Entrenamiento,1089,223626280,483,True,2,0,0,Sin tokens reconocidos por el tokenizador,<3
+Entrenamiento,1115,224196991,476,True,1216,3,0,Todos los términos quedaron fuera del vocabulario,amazzzingggggg gameeeeeeeee!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Entrenamiento,1137,224602078,414,True,7,1,0,Todos los términos quedaron fuera del vocabulario,rigged!
+Entrenamiento,1151,224883461,135,True,5,0,0,Sin tokens reconocidos por el tokenizador,10/10
+Entrenamiento,1168,225075408,4,True,150,27,0,Todos los términos quedaron fuera del vocabulario,"g fhbse hdjmgeutityherui hwuiebheriugherwui heuighrweiuhgersjk,nd hfvdj hfhdjhv d fdshjfshdu fhsdji fhdshhweui whrweuhv wjkelfhwehfre hskjfherwjkf ers"
+Entrenamiento,1198,225622983,306,True,22,0,0,Sin tokens reconocidos por el tokenizador,asasvhihihiuuhhh5345hr
+Entrenamiento,1214,225990040,443,True,11,3,0,Todos los términos quedaron fuera del vocabulario,woooo weeee
+Entrenamiento,1374,228895147,344,True,3,0,0,Sin tokens reconocidos por el tokenizador,ww2
+Entrenamiento,1412,229296804,120,True,2,0,0,Sin tokens reconocidos por el tokenizador,:)
+Entrenamiento,1479,229974764,78,True,1120,0,0,Sin tokens reconocidos por el tokenizador,"игра супер интересная и реиграбельная, как и первая часть. атмосферу и ностальгию,которую она тебе дарит просто зашкаливает. общий стиль очень приятный и красочный. иконки персонажей, которые интересн"
+Entrenamiento,1506,230278504,209,True,7,0,0,Sin tokens reconocidos por el tokenizador,⭐⭐⭐⭐⭐❤️
+Entrenamiento,1566,231196030,339,True,6,1,0,Todos los términos quedaron fuera del vocabulario,awdawd
+Entrenamiento,1569,231244559,457,True,1,0,0,Sin tokens reconocidos por el tokenizador,d
+Entrenamiento,1573,231287231,428,True,12,1,0,Todos los términos quedaron fuera del vocabulario,tactiawesome
+Entrenamiento,1603,231727059,458,False,245,0,0,Sin tokens reconocidos por el tokenizador,تجاوز السرعة المحددة باكثر من 50 كلم/ س - رصد آلي رقم: على سجل رقم: هذا كله للزنوه ولاه 26-03-1441 الزنوه سولد الزنوه أنا ح ق ل 2770 وس لي؟؟ بقيمة*1500 ريال تم قيد مخالفة: تجاوز السرعة المحددة باكثر م
+Entrenamiento,1611,231793443,105,True,14,1,0,Todos los términos quedaron fuera del vocabulario,yaaaaaaaaaaaay
+Entrenamiento,1618,231865712,43,False,12,0,0,Sin tokens reconocidos por el tokenizador,s1sw1sw1s1s1
+Entrenamiento,1622,231913742,457,True,65,1,0,Todos los términos quedaron fuera del vocabulario,goooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+Entrenamiento,1641,232046905,83,True,8,1,0,Todos los términos quedaron fuera del vocabulario,chuzl <3
+Entrenamiento,1692,232538603,31,True,1,0,0,Sin tokens reconocidos por el tokenizador,e
+Entrenamiento,1719,232723336,35,True,16,1,0,Todos los términos quedaron fuera del vocabulario,eeeeeeepic!!!!!!
+Entrenamiento,1727,232833147,3,True,6,1,0,Todos los términos quedaron fuera del vocabulario,booyah
+Entrenamiento,1783,233440658,166,True,12,0,0,Sin tokens reconocidos por el tokenizador,игра детства
+Entrenamiento,1805,233578431,462,True,1,0,0,Sin tokens reconocidos por el tokenizador,x
+Entrenamiento,1813,233623598,92,True,9,3,0,Todos los términos quedaron fuera del vocabulario,idu nahuy
+Entrenamiento,1815,233637027,325,True,11,1,0,Todos los términos quedaron fuera del vocabulario,carlhowarth
+Entrenamiento,1817,233640358,98,True,1,0,0,Sin tokens reconocidos por el tokenizador,1
+Entrenamiento,1852,233985637,397,True,4,1,0,Todos los términos quedaron fuera del vocabulario,zoby
+Entrenamiento,1858,234023836,21,False,87,0,0,Sin tokens reconocidos por el tokenizador,ця гра зїла мені очі плюс валв зробила її... заставляє задуматись шо вони курили в 2010
+Entrenamiento,1861,234032065,231,True,2,0,0,Sin tokens reconocidos por el tokenizador,:)
+Entrenamiento,1899,234330460,21,True,27,0,0,Sin tokens reconocidos por el tokenizador,welkjbouvubfib32ui3fbufeibu
+Entrenamiento,1905,234400591,111,True,1,0,0,Sin tokens reconocidos por el tokenizador,o
+Entrenamiento,1927,234564637,189,False,8,0,0,Sin tokens reconocidos por el tokenizador,ارجوك لا
+Entrenamiento,1944,234663993,344,True,5,1,0,Todos los términos quedaron fuera del vocabulario,bvfvg
+Entrenamiento,1993,235190653,176,True,4,1,0,Todos los términos quedaron fuera del vocabulario,sazr
+Entrenamiento,1996,235199252,334,True,14,5,0,Todos los términos quedaron fuera del vocabulario,bawh bawh bawh
+Entrenamiento,2044,235501933,2,True,7,1,0,Todos los términos quedaron fuera del vocabulario,goodddd
+Entrenamiento,2054,235555565,112,True,1,0,0,Sin tokens reconocidos por el tokenizador,💙
+Entrenamiento,2133,236030885,137,True,9,3,0,Todos los términos quedaron fuera del vocabulario,kos nnton
+Entrenamiento,2134,236042256,220,True,665,0,0,Sin tokens reconocidos por el tokenizador,"хороший сиквел, который исправил некоторые недочёты первой части, такие как растягивание геймплея. из оружий мало чего поменялось, в основном всё как в первой части, но враги и патроны.. да, больших п"
+Entrenamiento,2191,236356478,184,True,1,0,0,Sin tokens reconocidos por el tokenizador,👍
+Entrenamiento,2195,236372518,184,True,5,0,0,Sin tokens reconocidos por el tokenizador,10/10
+Entrenamiento,2231,236660883,396,True,32,1,0,Todos los términos quedaron fuera del vocabulario,sweeeeeeeeeeeeeeeeeeeeeeeeeeeeet
+Entrenamiento,2241,236692466,85,True,5,1,0,Todos los términos quedaron fuera del vocabulario,wappi
+Entrenamiento,2300,237001861,6,True,81,0,0,Sin tokens reconocidos por el tokenizador,крутая игра пуляешься дисками весело мне было с другом ебошится сильная 6/10 прям
+Entrenamiento,2313,237058197,326,False,13,0,0,Sin tokens reconocidos por el tokenizador,гoвнo eбaнoe.
+Entrenamiento,2386,237361573,112,True,1,0,0,Sin tokens reconocidos por el tokenizador,👍
+Entrenamiento,2395,237400640,13,True,21,5,0,Todos los términos quedaron fuera del vocabulario,alafranga tualet atma
+Entrenamiento,2396,237407466,58,True,5,0,0,Sin tokens reconocidos por el tokenizador,10/10
+Entrenamiento,2422,237461148,203,True,5,0,0,Sin tokens reconocidos por el tokenizador,10/10
+Entrenamiento,2456,237584553,104,True,22,3,0,Todos los términos quedaron fuera del vocabulario,pegggggggggggg meeeeee
+Entrenamiento,2458,237597997,265,True,1,0,0,Sin tokens reconocidos por el tokenizador,b
+Entrenamiento,2468,237642635,330,True,166,0,0,Sin tokens reconocidos por el tokenizador,легенда среди геймеров 2000-х на новых видюхах нужно заморичиться а так прикольная игра но сюжет банальный буквально принц бегает за принцессой и хочет ножки облизать
+Entrenamiento,2471,237668764,14,True,1,0,0,Sin tokens reconocidos por el tokenizador,e
+Entrenamiento,2485,237739909,90,True,1,0,0,Sin tokens reconocidos por el tokenizador,a
+Entrenamiento,2678,238350407,3,True,23,0,0,Sin tokens reconocidos por el tokenizador,ужасная отдача но похуй
+Entrenamiento,2679,238350465,12,True,44,0,0,Sin tokens reconocidos por el tokenizador,"пиздец, а не отдача и онлайна 0 но прикольно"
+Entrenamiento,2681,238354206,14,True,13,0,0,Sin tokens reconocidos por el tokenizador,нах ты создан
+Entrenamiento,2704,238410342,323,True,19,0,0,Sin tokens reconocidos por el tokenizador,гра дидинства 12/10
+Entrenamiento,2719,238437705,494,True,20,1,0,Todos los términos quedaron fuera del vocabulario,o zdoptu[pdsyixm0s9m
+Entrenamiento,2759,238545837,493,True,1,0,0,Sin tokens reconocidos por el tokenizador,e
+Entrenamiento,2782,238587217,8,False,4,1,0,Todos los términos quedaron fuera del vocabulario,suks
+Entrenamiento,2832,238706722,494,True,1,0,0,Sin tokens reconocidos por el tokenizador,w
+Entrenamiento,2841,238729657,494,True,8,1,0,Todos los términos quedaron fuera del vocabulario,pristine
+Entrenamiento,2851,238750165,12,True,15,3,0,Todos los términos quedaron fuera del vocabulario,gebiet gennomen
+Entrenamiento,2863,238772682,392,True,15,1,0,Todos los términos quedaron fuera del vocabulario,i <3 kickglitch
+Entrenamiento,2892,238814550,204,True,6,1,0,Todos los términos quedaron fuera del vocabulario,jewism
+Entrenamiento,2899,238850664,450,True,136,0,0,Sin tokens reconocidos por el tokenizador,لعبتها قبل اكثر من 10 سنوات واليوم رجعت جربتها لازالت ممتعة ولكن تشغيلها صعب لانها تطلب كرت صوت كلما اشغلها وبصعوبة حليت المشكلة وشغلتها
+Entrenamiento,2900,238856904,158,False,174,0,0,Sin tokens reconocidos por el tokenizador,"физика в этой игре просто ужасная, наезжаешь на конус и улетаешь хер пойми куда, возможно в детстве это была моя любимая гоночная игра, но сейчас не понимаю за что я её любил"
+Entrenamiento,2928,238932303,395,True,7,0,0,Sin tokens reconocidos por el tokenizador,10 / 10
+Entrenamiento,2947,238956795,46,True,5,0,0,Sin tokens reconocidos por el tokenizador,10/10
+Entrenamiento,2957,238974496,262,True,7,1,0,Todos los términos quedaron fuera del vocabulario,prussia
+Entrenamiento,3024,239118073,5,True,5,0,0,Sin tokens reconocidos por el tokenizador,2rt3w
+Entrenamiento,3029,239129245,474,True,5,1,0,Todos los términos quedaron fuera del vocabulario,noice
+Entrenamiento,3068,239196522,8,True,8,0,0,Sin tokens reconocidos por el tokenizador,👍👍👍👍👍👍👍👍
+Entrenamiento,3078,239222375,247,True,8,1,0,Todos los términos quedaron fuera del vocabulario,ggfkinez
+Entrenamiento,3097,239252969,494,True,4,1,0,Todos los términos quedaron fuera del vocabulario,funn
+Entrenamiento,3118,239322465,494,False,3,0,0,Sin tokens reconocidos por el tokenizador,...
+Entrenamiento,3134,239370130,391,True,36,0,0,Sin tokens reconocidos por el tokenizador,游戏是好游戏但是希望更新简体中文毕竟这样之后会有更多中国人关注到这个游戏
+Entrenamiento,3139,239382499,425,True,4,0,0,Sin tokens reconocidos por el tokenizador,8/10
+Entrenamiento,3146,239387006,173,True,10,0,0,Sin tokens reconocidos por el tokenizador,рекомендую
+Entrenamiento,3148,239389212,73,False,8,0,0,Sin tokens reconocidos por el tokenizador,не форза
+Entrenamiento,3165,239406771,391,True,19,1,0,Todos los términos quedaron fuera del vocabulario,sweeeeeeeeeeeeeeeet
+Entrenamiento,3216,239480121,194,True,8,1,0,Todos los términos quedaron fuera del vocabulario,iconnic.
+Entrenamiento,3227,239507560,262,True,4,1,0,Todos los términos quedaron fuera del vocabulario,yeag
+Entrenamiento,3253,239558955,247,True,1,0,0,Sin tokens reconocidos por el tokenizador,j
+Entrenamiento,3268,239599265,285,True,5,1,0,Todos los términos quedaron fuera del vocabulario,euugh
+Entrenamiento,3336,239700927,288,True,1,0,0,Sin tokens reconocidos por el tokenizador,ш
+Entrenamiento,3349,239720600,58,True,6,0,0,Sin tokens reconocidos por el tokenizador,8.5/10
+Entrenamiento,3354,239726971,335,True,3,0,0,Sin tokens reconocidos por el tokenizador,n/a
+Entrenamiento,3359,239731624,17,True,5,1,0,Todos los términos quedaron fuera del vocabulario,betah
+Entrenamiento,3391,239764893,452,True,11,1,0,Todos los términos quedaron fuera del vocabulario,10/10 chris
+Entrenamiento,3401,239775619,197,True,1,0,0,Sin tokens reconocidos por el tokenizador,/
+Entrenamiento,3402,239775621,173,True,7,1,0,Todos los términos quedaron fuera del vocabulario,niceeee
+Entrenamiento,3420,239819215,452,True,5,0,0,Sin tokens reconocidos por el tokenizador,10/10
+Entrenamiento,3429,239826135,425,True,6,1,0,Todos los términos quedaron fuera del vocabulario,hatter
+Entrenamiento,3443,239841172,25,True,7,1,0,Todos los términos quedaron fuera del vocabulario,pawsome
+Entrenamiento,3468,239885185,1,True,5,1,0,Todos los términos quedaron fuera del vocabulario,ooopo
+Entrenamiento,3486,239899274,221,True,14,0,0,Sin tokens reconocidos por el tokenizador,ابسلووووووووتت
+Entrenamiento,3508,239911987,15,True,227,1,0,Todos los términos quedaron fuera del vocabulario,weeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+Entrenamiento,3522,239918084,472,True,23,11,0,Todos los términos quedaron fuera del vocabulario,bow bow bow bow bow bow
+Entrenamiento,3552,239951636,11,True,509,0,0,Sin tokens reconocidos por el tokenizador,⠀⠀⠀⠀⠀⠀⣀⣠⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⣴⡿⠋⠉⠉⠻⢿⣦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⢸⣿⠀⠀⠀⠀⠀⠀⠹⣷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠈⣿⡄⠀⠀⠀⠀⠀⠀⢸⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠸⣷⠀⠀⠀⠀⠀⠀⢸⣿⠀⠀⢀⣀⣀⣀⣀⣀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⢻⣇⠀⠀⠀⠀⠀⢸⣿⣿⡿⠿⠿⠟⠛⠛⠻⢿⣿⣶⣄⠀⠀⠀ ⠀⠀⠀⠀⠀⢈⣿⠆⠀⠀⠀⠀⠀⠀⠀⠀⣀⣠⣤⣤
+Entrenamiento,3579,239977433,7,True,2,0,0,Sin tokens reconocidos por el tokenizador,:)
+Entrenamiento,3599,239989903,262,True,6,1,0,Todos los términos quedaron fuera del vocabulario,murica
+Entrenamiento,3678,240050212,16,True,6,1,0,Todos los términos quedaron fuera del vocabulario,pootis
+Entrenamiento,3706,240062375,287,True,16,1,0,Todos los términos quedaron fuera del vocabulario,gooooooooooooood
+Entrenamiento,3764,240085063,334,True,8,1,0,Todos los términos quedaron fuera del vocabulario,bwaaaahh
+Entrenamiento,3788,240101879,478,True,2,0,0,Sin tokens reconocidos por el tokenizador,:)
+Entrenamiento,3796,240106484,19,True,5,1,0,Todos los términos quedaron fuera del vocabulario,doogy
+Entrenamiento,3805,240111364,126,True,7,1,0,Todos los términos quedaron fuera del vocabulario,difjzxd
+Entrenamiento,3808,240112451,22,True,44,5,0,Todos los términos quedaron fuera del vocabulario,vihaan tätä peliä mен бұл ойынды жек көремін
+Entrenamiento,3812,240112763,22,False,7,3,0,Todos los términos quedaron fuera del vocabulario,fak naf
+Entrenamiento,3813,240112929,22,False,3,1,0,Todos los términos quedaron fuera del vocabulario,nää
+Entrenamiento,3863,96955747,202,True,15,0,0,Sin tokens reconocidos por el tokenizador,zdjqetysagihi4b
+Entrenamiento,3867,99199719,159,True,9,3,0,Todos los términos quedaron fuera del vocabulario,bkj:ajk:f
+Prueba,51,167046595,370,True,22,1,0,Todos los términos quedaron fuera del vocabulario,nostalgiaaaaaaaaaaaaa!
+Prueba,67,177879414,342,True,9,1,0,Todos los términos quedaron fuera del vocabulario,wonderbar
+Prueba,88,190209467,235,True,4,1,0,Todos los términos quedaron fuera del vocabulario,gosh
+Prueba,124,199705154,196,True,14,1,0,Todos los términos quedaron fuera del vocabulario,raaaaaaaaaaghh
+Prueba,129,200406927,139,True,1,0,0,Sin tokens reconocidos por el tokenizador,n
+Prueba,151,205592139,51,True,4,1,0,Todos los términos quedaron fuera del vocabulario,guud
+Prueba,195,216200279,454,True,4,1,0,Todos los términos quedaron fuera del vocabulario,yess
+Prueba,196,216347044,170,True,4,1,0,Todos los términos quedaron fuera del vocabulario,dere
+Prueba,222,220026468,332,True,158,0,0,Sin tokens reconocidos por el tokenizador,⣴⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣄⡀ ⢈⣿⣿⣿⡄⠀⢰⡄⡾⢰⠆⠀⠀⣠⣾⣿⣿⠇ ⠀⠹⣿⣿⣷⠟⠀⠁⠀⠀⠘⠙⠻⣿⠿⠟⠁⠀ ⠀⠀⢸⡿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠹⣇⠀⠀⠀ ⠀⠀⣻⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⡀⠀⠀ ⠀⠀⣽⠃⠄⢤⣤⠀⢀⠀⠰⣶⠀⠀⠹⠃⠀⠀ ⠀⢸⣇⣬⣤⡀⠇⠀⠈⠀⠀⠂⢰⡞⠛⢿⠄⠀ ⠀⠈⢿⣀⣠⡿⣶⠶⡶⠖⠶⠞⠟⠳⠶⠞⠁⠀ ⠀⠀⠀⠉⠀⠀⠀
+Prueba,223,220098743,331,True,158,0,0,Sin tokens reconocidos por el tokenizador,⣴⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣄⡀ ⢈⣿⣿⣿⡄⠀⢰⡄⡾⢰⠆⠀⠀⣠⣾⣿⣿⠇ ⠀⠹⣿⣿⣷⠟⠀⠁⠀⠀⠘⠙⠻⣿⠿⠟⠁⠀ ⠀⠀⢸⡿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠹⣇⠀⠀⠀ ⠀⠀⣻⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⡀⠀⠀ ⠀⠀⣽⠃⠄⢤⣤⠀⢀⠀⠰⣶⠀⠀⠹⠃⠀⠀ ⠀⢸⣇⣬⣤⡀⠇⠀⠈⠀⠀⠂⢰⡞⠛⢿⠄⠀ ⠀⠈⢿⣀⣠⡿⣶⠶⡶⠖⠶⠞⠟⠳⠶⠞⠁⠀ ⠀⠀⠀⠉⠀⠀⠀
+Prueba,271,224452406,3,True,55,0,0,Sin tokens reconocidos por el tokenizador,"игра имба, но в основном играют только какие-то китайцы"
+Prueba,314,227675689,354,True,5,1,0,Todos los términos quedaron fuera del vocabulario,g shi
+Prueba,327,228650044,393,True,5,1,0,Todos los términos quedaron fuera del vocabulario,llike
+Prueba,335,228927396,3,True,2,0,0,Sin tokens reconocidos por el tokenizador,‎‎
+Prueba,345,229405383,477,True,3,0,0,Sin tokens reconocidos por el tokenizador,★★★
+Prueba,368,230497135,131,True,433,0,0,Sin tokens reconocidos por el tokenizador,⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠘⠹⣶⣿⠷⢃⡆⠻⢈⣿⣿ ⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⢉⣴⣿⣷⢱⢠⡘⣿⣿ ⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⣀⣴⣿⠿⣫⣾⢈⣸⣷⠹⣿ ⠄⠄⠄⠄⠄⠄⠄⠄⠄⣀⣤⣶⣾⣿⣿⣿⣷⣶⣶⣬⡩⣵⣿⣿⣿⡘⢹⣿⢠⣄ ⠄⠄⠄⠄⠄⠄⠄⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣮⢻⣿⣿⣞⡄⢿⣜⣿ ⠄⠄⠄⠄⠄⢀⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣇⣿⣿⣋⠄⠙⠉⠛ ⠄⠄⠄⠄⢀⣾⣿⣿⣿⣿⣿⣿⣿⣿
+Prueba,369,230497201,133,True,433,0,0,Sin tokens reconocidos por el tokenizador,⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠘⠹⣶⣿⠷⢃⡆⠻⢈⣿⣿ ⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⢉⣴⣿⣷⢱⢠⡘⣿⣿ ⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⣀⣴⣿⠿⣫⣾⢈⣸⣷⠹⣿ ⠄⠄⠄⠄⠄⠄⠄⠄⠄⣀⣤⣶⣾⣿⣿⣿⣷⣶⣶⣬⡩⣵⣿⣿⣿⡘⢹⣿⢠⣄ ⠄⠄⠄⠄⠄⠄⠄⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣮⢻⣿⣿⣞⡄⢿⣜⣿ ⠄⠄⠄⠄⠄⢀⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣇⣿⣿⣋⠄⠙⠉⠛ ⠄⠄⠄⠄⢀⣾⣿⣿⣿⣿⣿⣿⣿⣿
+Prueba,373,230795186,343,True,3,1,0,Todos los términos quedaron fuera del vocabulario,ehh
+Prueba,391,231496281,334,True,3,1,0,Todos los términos quedaron fuera del vocabulario,fye
+Prueba,413,232526591,248,True,5,1,0,Todos los términos quedaron fuera del vocabulario,pazly
+Prueba,446,234020938,121,True,2,0,0,Sin tokens reconocidos por el tokenizador,67
+Prueba,453,234221962,39,True,39,0,0,Sin tokens reconocidos por el tokenizador,الالعاب الي تلعبها عشان ما يسمونك كاجول
+Prueba,460,234483838,39,True,323,0,0,Sin tokens reconocidos por el tokenizador,⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⣦⣤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⣿⣿⣿⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⣠⣾⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⢠⣤⣤⣤⡀⠀⢀⣼⣿⣿⣿⣿⣿⣿⣧⣤⣤⣤⣤⣤⣤⣤⣤⣄⡀⠀ ⢸⣿⣿⣿⡇⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡄ ⢸⣿⣿⣿⡇⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇ ⢸⣿⣿⣿⡇⠀⢸⣿⣿⣿⣿
+Prueba,462,234567537,21,True,14,0,0,Sin tokens reconocidos por el tokenizador,"强奸孩子们,希特勒先生!!!"
+Prueba,477,235132279,346,True,5,0,0,Sin tokens reconocidos por el tokenizador,11111
+Prueba,488,235444068,334,True,4,0,0,Sin tokens reconocidos por el tokenizador,🦶🏿🦶🏿
+Prueba,500,235687888,83,True,3,1,0,Todos los términos quedaron fuera del vocabulario,fih
+Prueba,509,235996229,318,True,17,1,0,Todos los términos quedaron fuera del vocabulario,amazinggggggggggg
+Prueba,530,236597935,149,True,6,1,0,Todos los términos quedaron fuera del vocabulario,gaoted
+Prueba,555,237013901,2,True,3,0,0,Sin tokens reconocidos por el tokenizador,★★★
+Prueba,559,237084141,111,True,7,1,0,Todos los términos quedaron fuera del vocabulario,ballin'
+Prueba,573,237379750,453,True,72,0,0,Sin tokens reconocidos por el tokenizador,10/7 يعني لولا تحكم الرمي لاكانت 9 اقل شيء والربع الاخير من لعبه اسطوريي
+Prueba,588,237619453,120,True,2,0,0,Sin tokens reconocidos por el tokenizador,:d
+Prueba,596,237754124,237,True,1,0,0,Sin tokens reconocidos por el tokenizador,ᅠ
+Prueba,600,237796267,226,True,3,0,0,Sin tokens reconocidos por el tokenizador,★★★
+Prueba,602,237820594,85,True,1180,0,0,Sin tokens reconocidos por el tokenizador,هذي اللعبة جدًا قريبة لقلبي، لأن لها جزء مو بسيط بحياتي وذكرياتي.. لما أشوف اسم زوما، أتذكر نفسي وأنا جالسة جنب أبوي على الأرض وصوت الفاكس شغال على يساري، ريحة المكان الطيبة والإضاءة الدافية، حفظت لي 
+Prueba,618,238073351,385,True,5,1,0,Todos los términos quedaron fuera del vocabulario,govno
+Prueba,686,238717711,324,True,6,1,0,Todos los términos quedaron fuera del vocabulario,sdfsdf
+Prueba,687,238725640,47,True,6,1,0,Todos los términos quedaron fuera del vocabulario,owwwww
+Prueba,699,238809152,262,True,3,0,0,Sin tokens reconocidos por el tokenizador,---
+Prueba,718,239022850,47,True,4,1,0,Todos los términos quedaron fuera del vocabulario,bhop
+Prueba,719,239041720,43,True,15,3,0,Todos los términos quedaron fuera del vocabulario,/devmap chronic
+Prueba,726,239115039,441,True,3,1,0,Todos los términos quedaron fuera del vocabulario,sip
+Prueba,735,239170817,84,True,3,1,0,Todos los términos quedaron fuera del vocabulario,fih
+Prueba,761,239399673,471,True,11,0,0,Sin tokens reconocidos por el tokenizador,810 / 1.000
+Prueba,769,239446716,287,True,14,1,0,Todos los términos quedaron fuera del vocabulario,sdfsgsefaewesw
+Prueba,791,239612355,288,True,3,1,0,Todos los términos quedaron fuera del vocabulario,dih
+Prueba,809,239738435,173,True,3,1,0,Todos los términos quedaron fuera del vocabulario,gav
+Prueba,842,239902075,7,True,5,1,0,Todos los términos quedaron fuera del vocabulario,gordo
+Prueba,853,239923611,391,True,4,1,0,Todos los términos quedaron fuera del vocabulario,bajs
+Prueba,862,239955591,173,True,2,0,0,Sin tokens reconocidos por el tokenizador,67
+Prueba,867,239975060,285,True,6,1,0,Todos los términos quedaron fuera del vocabulario,gassss
+Prueba,899,240067837,289,True,6,1,0,Todos los términos quedaron fuera del vocabulario,sweeet
+Prueba,900,240068037,20,True,10,1,0,Todos los términos quedaron fuera del vocabulario,fantablous
+Prueba,905,240074042,452,False,5,1,0,Todos los términos quedaron fuera del vocabulario,:sob:
