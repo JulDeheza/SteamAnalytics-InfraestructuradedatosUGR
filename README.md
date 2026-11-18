@@ -124,7 +124,7 @@ Sigue estos sencillos pasos para levantar la aplicación en tu máquina local o 
 2. **Crear e inicializar un entorno virtual (Recomendado):**
    ```bash
    python -m venv venv
-   source venv/bin/activate  # En Windows: venv\Scriptsctivate
+   source venv/bin/activate  # En Windows: venv\Scripts\Activate
    ```
 3. **Instalar las dependencias del proyecto:**
    ```bash
