@@ -7,21 +7,17 @@ El objetivo principal es transformar datos brutos en conocimiento de valor estra
 
 ---
 
-## 📸 Capturas de Pantalla del Dashboard (Visual Preview)
-
 Haquí puedes visualizar la interfaz interactiva y analítica de la plataforma:
 
-* **Pestaña 1: Inicio e Indicadores Generales**
-  https://raw.githubusercontent.com/tu_usuario/tu_repositorio/main/Analytics/Streamlit/assets/screenshot_inicio.png
+* **Pestaña 1: Inicio**: [Link](https://steambussines-tpfinfraestructura-dehezagargiulogirondo.streamlit.app/)
 
-* **Pestaña 2: Análisis de Cohortes (2020-2025)**
-  https://raw.githubusercontent.com/tu_usuario/tu_repositorio/main/Analytics/Streamlit/assets/screenshot_cohortes.png
+* **Pestaña 2: Análisis General**: [Link](https://steambussines-tpfinfraestructura-dehezagargiulogirondo.streamlit.app/Analisis_General)
 
-* **Pestaña 3: Exploración de Videojuegos Individual**
-  https://raw.githubusercontent.com/tu_usuario/tu_repositorio/main/Analytics/Streamlit/assets/screenshot_juegos.png
+* **Pestaña 3: Cohortes y usuarios**: [Link](https://steambussines-tpfinfraestructura-dehezagargiulogirondo.streamlit.app/Analisis_Cohortes)
 
-* **Pestaña 4: Clasificación del Sentimiento en Tiempo Real (NLP)**
-  https://raw.githubusercontent.com/tu_usuario/tu_repositorio/main/Analytics/Streamlit/assets/screenshot_sentimiento.png
+* **Pestaña 4: Exploración de Juegos**: [Link](https://steambussines-tpfinfraestructura-dehezagargiulogirondo.streamlit.app/Exploracion_Juegos)
+
+* **Pestaña 5: Análisis de sentimientos (NLP)**: [Link](https://steambussines-tpfinfraestructura-dehezagargiulogirondo.streamlit.app/Analisis_Sentimiento)
 
 ---
 
