@@ -7,23 +7,17 @@ El objetivo principal es transformar datos brutos en conocimiento de valor estra
 
 ---
 
-## 📸 Capturas de Pantalla del Dashboard (Visual Preview)
-
 Haquí puedes visualizar la interfaz interactiva y analítica de la plataforma:
 
-* **Pestaña 1: Inicio e Indicadores Generales**
-  ![Inicio y KPIs](https://raw.githubusercontent.com/tu_usuario/tu_repositorio/main/Analytics/Streamlit/assets/screenshot_inicio.png)
+* **Pestaña 1: Inicio**: [Link](https://steambussines-tpfinfraestructura-dehezagargiulogirondo.streamlit.app/)
 
-* **Pestaña 2: Análisis de Cohortes (2020-2025)**
-  ![Análisis de Cohortes](https://raw.githubusercontent.com/tu_usuario/tu_repositorio/main/Analytics/Streamlit/assets/screenshot_cohortes.png)
+* **Pestaña 2: Análisis General**: [Link](https://steambussines-tpfinfraestructura-dehezagargiulogirondo.streamlit.app/Analisis_General)
 
-* **Pestaña 3: Exploración de Videojuegos Individual**
-  ![Explorador de Juegos](https://raw.githubusercontent.com/tu_usuario/tu_repositorio/main/Analytics/Streamlit/assets/screenshot_juegos.png)
+* **Pestaña 3: Cohortes y usuarios**: [Link](https://steambussines-tpfinfraestructura-dehezagargiulogirondo.streamlit.app/Analisis_Cohortes)
 
-* **Pestaña 4: Clasificación del Sentimiento en Tiempo Real (NLP)**
-  ![Análisis de Sentimiento](https://raw.githubusercontent.com/tu_usuario/tu_repositorio/main/Analytics/Streamlit/assets/screenshot_sentimiento.png)
+* **Pestaña 4: Exploración de Juegos**: [Link](https://steambussines-tpfinfraestructura-dehezagargiulogirondo.streamlit.app/Exploracion_Juegos)
 
-> *Nota: Recuerda reemplazar las URLs anteriores por los enlaces reales a tus capturas una vez que subas tu repositorio a GitHub o GitLab.*
+* **Pestaña 5: Análisis de sentimientos (NLP)**: [Link](https://steambussines-tpfinfraestructura-dehezagargiulogirondo.streamlit.app/Analisis_Sentimiento)
 
 ---
 
